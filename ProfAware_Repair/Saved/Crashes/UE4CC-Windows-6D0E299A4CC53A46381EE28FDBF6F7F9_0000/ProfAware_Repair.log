@@ -1,0 +1,1779 @@
+﻿Log file open, 03/25/23 20:39:48
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: ProfAware_Repair
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 11 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.692004
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: AMD Athlon Gold 3150U with Radeon Graphics     , GPU: AMD Radeon(TM) Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/ProfAware-gamejam/ProfAware_Repair/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/ProfAware-gamejam/ProfAware_Repair/Saved/Config/Windows/Engine.ini]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.Mobile.DisableVertexFog:1]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxMobileCascades:2]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.MobileMSAA:1]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.Mobile.AllowDitheredLODTransition:0]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.Mobile.AllowSoftwareOcclusion:0]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.Mobile.VirtualTextures:0]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.DiscardUnusedQuality:0]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.AllowOcclusionQueries:1]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForLights:0.030000]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForDepthPrepass:0.030000]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.MinScreenRadiusForCSMDepth:0.010000]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.PrecomputedVisibilityWarning:0]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.TextureStreaming:1]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[Compat.UseDXT5NormalMaps:0]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.VirtualTextures:0]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.VT.EnableAutoImport:1]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.VirtualTexturedLightmaps:0]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.VT.TileSize:128]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.VT.TileBorderSize:4]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.vt.FeedbackFactor:16]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.VT.EnableCompressZlib:1]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.VT.EnableCompressCrunch:0]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.ClearCoatNormal:0]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.ReflectionCaptureResolution:128]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.Mobile.ReflectionCaptureCompression:0]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.ReflectionEnvironmentLightmapMixBasedOnRoughness:1]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.ForwardShading:0]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.VertexFoggingForOpaque:1]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.AllowStaticLighting:1]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.NormalMapsForStaticLighting:0]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.GenerateMeshDistanceFields:0]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.EightBit:0]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.GenerateLandscapeGIData:0]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.DistanceFieldBuild.Compress:0]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.TessellationAdaptivePixelsPerTriangle:48.000000]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.SeparateTranslucency:1]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.TranslucentSortPolicy:0]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[vr.VRS.HMDFixedFoveationLevel:0]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.CustomDepth:1]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.CustomDepthTemporalAAJitter:1]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.PostProcessing.PropagateAlpha:0]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.DefaultFeature.Bloom:1]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusion:1]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.DefaultFeature.AmbientOcclusionStaticFraction:1]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure:0]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Method:0]]
+[2023.03.25-20.39.53:286][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.Bias:1.000000]]
+[2023.03.25-20.39.53:287][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0]]
+[2023.03.25-20.39.53:287][  0]LogConfig: Setting CVar [[r.UsePreExposure:1]]
+[2023.03.25-20.39.53:287][  0]LogConfig: Setting CVar [[r.EyeAdaptation.EditorOnly:0]]
+[2023.03.25-20.39.53:287][  0]LogConfig: Setting CVar [[r.DefaultFeature.MotionBlur:0]]
+[2023.03.25-20.39.53:287][  0]LogConfig: Setting CVar [[r.DefaultFeature.LensFlare:0]]
+[2023.03.25-20.39.53:287][  0]LogConfig: Setting CVar [[r.TemporalAA.Upsampling:0]]
+[2023.03.25-20.39.53:287][  0]LogConfig: Setting CVar [[r.SSGI.Enable:0]]
+[2023.03.25-20.39.53:287][  0]LogConfig: Setting CVar [[r.DefaultFeature.AntiAliasing:0]]
+[2023.03.25-20.39.53:287][  0]LogConfig: Setting CVar [[r.DefaultFeature.LightUnits:1]]
+[2023.03.25-20.39.53:287][  0]LogConfig: Setting CVar [[r.DefaultBackBufferPixelFormat:4]]
+[2023.03.25-20.39.53:287][  0]LogConfig: Setting CVar [[r.Shadow.UnbuiltPreviewInGame:1]]
+[2023.03.25-20.39.53:287][  0]LogConfig: Setting CVar [[r.StencilForLODDither:0]]
+[2023.03.25-20.39.53:287][  0]LogConfig: Setting CVar [[r.EarlyZPass:3]]
+[2023.03.25-20.39.53:288][  0]LogConfig: Setting CVar [[r.EarlyZPassOnlyMaterialMasking:0]]
+[2023.03.25-20.39.53:288][  0]LogConfig: Setting CVar [[r.DBuffer:1]]
+[2023.03.25-20.39.53:288][  0]LogConfig: Setting CVar [[r.ClearSceneMethod:1]]
+[2023.03.25-20.39.53:288][  0]LogConfig: Setting CVar [[r.BasePassOutputsVelocity:0]]
+[2023.03.25-20.39.53:288][  0]LogConfig: Setting CVar [[r.VertexDeformationOutputsVelocity:0]]
+[2023.03.25-20.39.53:288][  0]LogConfig: Setting CVar [[r.SelectiveBasePassOutputs:0]]
+[2023.03.25-20.39.53:288][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeX:1024]]
+[2023.03.25-20.39.53:288][  0]LogConfig: Setting CVar [[fx.GPUSimulationTextureSizeY:1024]]
+[2023.03.25-20.39.53:288][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:0]]
+[2023.03.25-20.39.53:288][  0]LogConfig: Setting CVar [[r.GBufferFormat:1]]
+[2023.03.25-20.39.53:288][  0]LogConfig: Setting CVar [[r.MorphTarget.Mode:1]]
+[2023.03.25-20.39.53:288][  0]LogConfig: Setting CVar [[vr.InstancedStereo:0]]
+[2023.03.25-20.39.53:288][  0]LogConfig: Setting CVar [[r.MobileHDR:1]]
+[2023.03.25-20.39.53:288][  0]LogConfig: Setting CVar [[vr.MobileMultiView:0]]
+[2023.03.25-20.39.53:288][  0]LogConfig: Setting CVar [[r.Mobile.UseHWsRGBEncoding:0]]
+[2023.03.25-20.39.53:288][  0]LogConfig: Setting CVar [[vr.RoundRobinOcclusion:0]]
+[2023.03.25-20.39.53:288][  0]LogConfig: Setting CVar [[vr.ODSCapture:0]]
+[2023.03.25-20.39.53:288][  0]LogConfig: Setting CVar [[r.MeshStreaming:0]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.WireframeCullThreshold:5.000000]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.RayTracing:0]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.RayTracing.UseTextureLod:0]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.SupportStationarySkylight:1]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.SupportLowQualityLightmaps:1]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.SupportPointLightWholeSceneShadows:1]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.SupportAtmosphericFog:1]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphere:1]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.SupportSkyAtmosphereAffectsHeightFog:0]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.SkinCache.CompileShaders:0]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.SkinCache.DefaultBehavior:1]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.SkinCache.SceneMemoryLimitInMB:128.000000]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.Mobile.EnableStaticAndCSMShadowReceivers:1]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableLightCSMShaderCulling:1]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.Mobile.AllowDistanceFieldShadows:1]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.Mobile.AllowMovableDirectionalLights:1]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.MobileNumDynamicPointLights:4]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.MobileDynamicPointLightsUseStaticBranch:1]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlights:0]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.Mobile.EnableMovableSpotlightsShadow:0]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.GPUSkin.Support16BitBoneIndex:0]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.GPUSkin.Limit2BoneInfluences:0]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.SupportDepthOnlyIndexBuffers:1]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.SupportReversedIndexBuffers:1]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.LightPropagationVolume:0]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.Mobile.AmbientOcclusion:0]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluences:0]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.GPUSkin.UnlimitedBoneInfluencesThreshold:8]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.Mobile.PlanarReflectionMode:0]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[r.Mobile.SupportsGen4TAA:0]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/ProfAware-gamejam/ProfAware_Repair/Saved/Config/Windows/Engine.ini]
+[2023.03.25-20.39.53:289][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/ProfAware-gamejam/ProfAware_Repair/Saved/Config/Windows/Engine.ini]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/ProfAware-gamejam/ProfAware_Repair/Saved/Config/Windows/Engine.ini]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2023.03.25-20.39.53:289][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/ProfAware-gamejam/ProfAware_Repair/Saved/Config/Windows/Engine.ini]
+[2023.03.25-20.39.53:289][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/ProfAware-gamejam/ProfAware_Repair/Saved/Config/Windows/Engine.ini]
+[2023.03.25-20.39.53:307][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/ProfAware-gamejam/ProfAware_Repair/Saved/Config/Windows/Scalability.ini]
+[2023.03.25-20.39.53:307][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.03.25-20.39.53:307][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.03.25-20.39.53:307][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/ProfAware-gamejam/ProfAware_Repair/Saved/Config/Windows/Scalability.ini]
+[2023.03.25-20.39.53:307][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.03.25-20.39.53:307][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/ProfAware-gamejam/ProfAware_Repair/Saved/Config/Windows/Scalability.ini]
+[2023.03.25-20.39.53:307][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.03.25-20.39.53:307][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.03.25-20.39.53:307][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.03.25-20.39.53:307][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.03.25-20.39.53:307][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.03.25-20.39.53:307][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.03.25-20.39.53:307][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.03.25-20.39.53:307][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.03.25-20.39.53:307][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.03.25-20.39.53:307][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.03.25-20.39.53:307][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.03.25-20.39.53:307][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.03.25-20.39.53:307][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.03.25-20.39.53:307][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.03.25-20.39.53:307][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.03.25-20.39.53:307][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.03.25-20.39.53:307][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.03.25-20.39.53:307][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/ProfAware-gamejam/ProfAware_Repair/Saved/Config/Windows/Scalability.ini]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/ProfAware-gamejam/ProfAware_Repair/Saved/Config/Windows/Scalability.ini]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.03.25-20.39.53:308][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/ProfAware-gamejam/ProfAware_Repair/Saved/Config/Windows/Scalability.ini]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/ProfAware-gamejam/ProfAware_Repair/Saved/Config/Windows/Scalability.ini]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/ProfAware-gamejam/ProfAware_Repair/Saved/Config/Windows/Scalability.ini]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.03.25-20.39.53:309][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.03.25-20.39.53:310][  0]LogInit: Selected Device Profile: [Windows]
+[2023.03.25-20.39.53:310][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2023.03.25-20.39.53:311][  0]LogHAL: Display: Platform has ~ 14 GB [14913122304 / 17179869184 / 14], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.03.25-20.39.53:311][  0]LogInit: Going up to parent DeviceProfile []
+[2023.03.25-20.39.53:311][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/ProfAware-gamejam/ProfAware_Repair/Saved/Config/Windows/Scalability.ini]
+[2023.03.25-20.39.53:311][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2023.03.25-20.39.53:311][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2023.03.25-20.39.53:311][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/ProfAware-gamejam/ProfAware_Repair/Saved/Config/Windows/Scalability.ini]
+[2023.03.25-20.39.53:311][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2023.03.25-20.39.53:311][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/ProfAware-gamejam/ProfAware_Repair/Saved/Config/Windows/Scalability.ini]
+[2023.03.25-20.39.53:311][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2023.03.25-20.39.53:311][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2023.03.25-20.39.53:311][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2023.03.25-20.39.53:311][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2023.03.25-20.39.53:311][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2023.03.25-20.39.53:311][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2023.03.25-20.39.53:311][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/ProfAware-gamejam/ProfAware_Repair/Saved/Config/Windows/Scalability.ini]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/ProfAware-gamejam/ProfAware_Repair/Saved/Config/Windows/Scalability.ini]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/ProfAware-gamejam/ProfAware_Repair/Saved/Config/Windows/Scalability.ini]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2023.03.25-20.39.53:312][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2023.03.25-20.39.53:313][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2023.03.25-20.39.53:313][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2023.03.25-20.39.53:313][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2023.03.25-20.39.53:313][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2023.03.25-20.39.53:313][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2023.03.25-20.39.53:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2023.03.25-20.39.53:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2023.03.25-20.39.53:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2023.03.25-20.39.53:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2023.03.25-20.39.53:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2023.03.25-20.39.53:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2023.03.25-20.39.53:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2023.03.25-20.39.53:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2023.03.25-20.39.53:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2023.03.25-20.39.53:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2023.03.25-20.39.53:313][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2023.03.25-20.39.53:313][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2023.03.25-20.39.53:313][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/ProfAware-gamejam/ProfAware_Repair/Saved/Config/Windows/Scalability.ini]
+[2023.03.25-20.39.53:313][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2023.03.25-20.39.53:313][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2023.03.25-20.39.53:313][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/ProfAware-gamejam/ProfAware_Repair/Saved/Config/Windows/Scalability.ini]
+[2023.03.25-20.39.53:313][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2023.03.25-20.39.53:313][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2023.03.25-20.39.53:313][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2023.03.25-20.39.53:313][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2023.03.25-20.39.53:324][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2023.03.25-20.39.53:324][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2023.03.25-20.39.53:324][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2023.03.25-20.39.53:324][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/ProfAware-gamejam/ProfAware_Repair/Saved/Config/Windows/Engine.ini]
+[2023.03.25-20.39.53:324][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/ProfAware-gamejam/ProfAware_Repair/Saved/Config/Windows/Editor.ini]
+[2023.03.25-20.39.53:325][  0]LogInit: Computer: DESKTOP-S4OV2M6
+[2023.03.25-20.39.53:325][  0]LogInit: User: albee
+[2023.03.25-20.39.53:325][  0]LogInit: CPU Page size=4096, Cores=2
+[2023.03.25-20.39.53:325][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2023.03.25-20.39.53:325][  0]LogMemory: Memory total: Physical=13.9GB (14GB approx)
+[2023.03.25-20.39.53:326][  0]LogMemory: Platform Memory Stats for Windows
+[2023.03.25-20.39.53:326][  0]LogMemory: Process Physical Memory: 140.47 MB used, 140.47 MB peak
+[2023.03.25-20.39.53:326][  0]LogMemory: Process Virtual Memory: 111.04 MB used, 111.04 MB peak
+[2023.03.25-20.39.53:326][  0]LogMemory: Physical Memory: 6372.86 MB used,  7849.41 MB free, 14222.26 MB total
+[2023.03.25-20.39.53:326][  0]LogMemory: Virtual Memory: 134209504.00 MB used,  8225.39 MB free, 134217728.00 MB total
+[2023.03.25-20.39.53:335][  0]LogWindows: WindowsPlatformFeatures enabled
+[2023.03.25-20.39.53:795][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2023.03.25-20.39.53:799][  0]LogInit: Using OS detected language (en-US).
+[2023.03.25-20.39.53:799][  0]LogInit: Using OS detected locale (en-GB).
+[2023.03.25-20.39.53:816][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2023.03.25-20.39.54:393][  0]LogInit: Setting process to per monitor DPI aware
+[2023.03.25-20.39.54:447][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.03.25-20.39.54:645][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2023.03.25-20.39.54:646][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2023.03.25-20.39.59:847][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2023.03.25-20.39.59:854][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.03.25-20.39.59:854][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2023.03.25-20.39.59:854][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2023.03.25-20.39.59:854][  0]LogD3D11RHI: D3D11 adapters:
+[2023.03.25-20.39.59:994][  0]LogD3D11RHI:    0. 'AMD Radeon(TM) Graphics' (Feature Level 11_0)
+[2023.03.25-20.39.59:994][  0]LogD3D11RHI:       2033/0/7111 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x1002
+[2023.03.25-20.40.00:000][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2023.03.25-20.40.00:000][  0]LogD3D11RHI:       0/0/7111 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2023.03.25-20.40.00:000][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2023.03.25-20.40.00:000][  0]LogD3D11RHI:     Description : AMD Radeon(TM) Graphics
+[2023.03.25-20.40.00:000][  0]LogD3D11RHI:     VendorId    : 1002
+[2023.03.25-20.40.00:000][  0]LogD3D11RHI:     DeviceId    : 15d8
+[2023.03.25-20.40.00:000][  0]LogD3D11RHI:     SubSysId    : a121028
+[2023.03.25-20.40.00:000][  0]LogD3D11RHI:     Revision    : 00ce
+[2023.03.25-20.40.00:000][  0]LogD3D11RHI:     DedicatedVideoMemory : 2132467712 bytes
+[2023.03.25-20.40.00:000][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.25-20.40.00:000][  0]LogD3D11RHI:     SharedSystemMemory : 7456561152 bytes
+[2023.03.25-20.40.00:000][  0]LogD3D11RHI:     AdapterLuid : 0 55535
+[2023.03.25-20.40.00:014][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2023.03.25-20.40.00:014][  0]LogD3D11RHI:     GPU DeviceId: 0x15d8 (for the marketing name, search the web for "GPU Device Id")
+[2023.03.25-20.40.00:014][  0]LogWindows: EnumDisplayDevices:
+[2023.03.25-20.40.00:014][  0]LogWindows:    0. 'AMD Radeon(TM) Graphics' (P:1 D:1)
+[2023.03.25-20.40.00:015][  0]LogWindows:    1. 'AMD Radeon(TM) Graphics' (P:0 D:1)
+[2023.03.25-20.40.00:016][  0]LogWindows:    2. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.03.25-20.40.00:016][  0]LogWindows:    3. 'AMD Radeon(TM) Graphics' (P:0 D:0)
+[2023.03.25-20.40.00:017][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2023.03.25-20.40.00:017][  0]LogD3D11RHI:     Adapter Name: AMD Radeon(TM) Graphics
+[2023.03.25-20.40.00:017][  0]LogD3D11RHI:   Driver Version: AMD Software: Adrenalin Edition 22.20.28 (internal:31.0.12028.2, unified:31.0.12028.2)
+[2023.03.25-20.40.00:017][  0]LogD3D11RHI:      Driver Date: 8-30-2022
+[2023.03.25-20.40.00:018][  0]LogRHI: Texture pool is 5902 MB (70% of 8431 MB)
+[2023.03.25-20.40.00:050][  0]LogD3D11RHI: Creating D3DDevice with AMD AGS, using adapter:
+[2023.03.25-20.40.00:050][  0]LogD3D11RHI:     Description : AMD Radeon(TM) Graphics
+[2023.03.25-20.40.00:050][  0]LogD3D11RHI:     VendorId    : 1002
+[2023.03.25-20.40.00:050][  0]LogD3D11RHI:     DeviceId    : 15d8
+[2023.03.25-20.40.00:050][  0]LogD3D11RHI:     SubSysId    : a121028
+[2023.03.25-20.40.00:050][  0]LogD3D11RHI:     Revision    : 00ce
+[2023.03.25-20.40.00:050][  0]LogD3D11RHI:     DedicatedVideoMemory : 2132467712 bytes
+[2023.03.25-20.40.00:050][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2023.03.25-20.40.00:050][  0]LogD3D11RHI:     SharedSystemMemory : 7456561152 bytes
+[2023.03.25-20.40.00:050][  0]LogD3D11RHI:     AdapterLuid : 0 55535
+[2023.03.25-20.40.00:161][  0]LogD3D11RHI: Created device via AGS, feature level 11_0, supported extensions 1fffffbf.
+[2023.03.25-20.40.00:161][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2023.03.25-20.40.00:161][  0]LogD3D11RHI: Async texture creation enabled
+[2023.03.25-20.40.00:161][  0]LogD3D11RHI: Array index from any shader is supported
+[2023.03.25-20.40.00:242][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2023.03.25-20.40.01:831][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.03.25-20.40.01:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.03.25-20.40.01:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.03.25-20.40.01:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.03.25-20.40.01:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.03.25-20.40.01:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.03.25-20.40.01:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.03.25-20.40.01:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.03.25-20.40.01:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.03.25-20.40.01:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.03.25-20.40.01:925][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.03.25-20.40.02:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.03.25-20.40.02:097][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.03.25-20.40.02:166][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.03.25-20.40.02:207][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.03.25-20.40.02:248][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.03.25-20.40.02:288][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.03.25-20.40.02:344][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.03.25-20.40.02:381][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.03.25-20.40.02:420][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.03.25-20.40.02:502][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.03.25-20.40.02:502][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.03.25-20.40.02:559][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.03.25-20.40.02:600][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.03.25-20.40.02:634][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.03.25-20.40.02:671][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.03.25-20.40.02:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.03.25-20.40.02:715][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.03.25-20.40.02:765][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.03.25-20.40.02:808][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.03.25-20.40.02:852][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.03.25-20.40.02:896][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.03.25-20.40.02:896][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2023.03.25-20.40.03:054][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.03.25-20.40.03:506][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.03.25-20.40.04:165][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2023.03.25-20.40.04:167][  0]LogShaderCompilers: Guid format shader working directory is 0 characters bigger than the processId version (../../../../ProfAware-gamejam/ProfAware_Repair/Intermediate/Shaders/WorkingDirectory/3076/).
+[2023.03.25-20.40.04:167][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/albee/AppData/Local/Temp/UnrealShaderWorkingDir/BB62CDD943FEAFB1D06B7BBCFE297299/'.
+[2023.03.25-20.40.04:169][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2023.03.25-20.40.04:169][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2023.03.25-20.40.04:169][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.03.25-20.40.10:778][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.03.25-20.40.11:007][  0]LogDerivedDataCache: Loaded boot cache 0.23s 94MB C:/Users/albee/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.03.25-20.40.11:007][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/albee/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.03.25-20.40.11:007][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../ProfAware-gamejam/ProfAware_Repair/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2023.03.25-20.40.11:007][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2023.03.25-20.40.11:008][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../ProfAware-gamejam/ProfAware_Repair/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.25-20.40.11:008][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2023.03.25-20.40.11:054][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.03.25-20.40.11:054][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2023.03.25-20.40.11:054][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2023.03.25-20.40.11:196][  0]LogDerivedDataCache: Speed tests for C:/Users/albee/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.14 seconds
+[2023.03.25-20.40.11:196][  0]LogDerivedDataCache: Display: Performance to C:/Users/albee/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.33ms. RandomReadSpeed=7.81MBs, RandomWriteSpeed=50.45MBs. Assigned SpeedClass 'Local'
+[2023.03.25-20.40.11:201][  0]LogDerivedDataCache: Using Local data cache path C:/Users/albee/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2023.03.25-20.40.11:201][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2023.03.25-20.40.11:201][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2023.03.25-20.40.11:322][  0]LogSlate: Using FreeType 2.10.0
+[2023.03.25-20.40.11:365][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2023.03.25-20.40.12:023][  0]LogAssetRegistry: FAssetRegistry took 0.0066 seconds to start up
+[2023.03.25-20.40.12:702][  0]LogInit: Selected Device Profile: [Windows]
+[2023.03.25-20.40.12:702][  0]LogInit: Active device profile: [00000259AFF8F300][00000259A234E580 49] Windows
+[2023.03.25-20.40.12:702][  0]LogInit: Profiles: [00000259AFF8F300][00000259A234E580 49] Windows, [00000259AFF44F00][00000259A2356700 49] WindowsNoEditor, [00000259AFF8CF00][00000259AF37A880 49] WindowsServer, [00000259AFF46900][00000259AF37EA00 49] WindowsClient, [00000259AFF8E800][00000259A2352B40 49] IOS, [00000259AFF47F00][00000259AF382C80 49] iPadAir, [00000259AFF8FD00][00000259AF386DC0 49] iPadAir2, [00000259AFF03500][00000259AF393040 49] IPadPro, [00000259AFF03600][00000259AF38B080 49] iPadAir3, [00000259AFF8C500][00000259AF397200 49] iPadAir4, [00000259AFF01400][00000259AF39B380 49] iPadMini2, [00000259AFF8D800][00000259AF39F500 49] iPadMini3, [00000259AFF00C00][00000259AF3A3680 49] iPadMini4, [00000259AFF8F400][00000259AF3A7800 49] iPadMini5, [00000259AFF42800][00000259AA07DAC0 49] iPhone6, [00000259AFF42900][00000259AF3ABB00 49] iPodTouch6, [00000259AFF02100][00000259AA084240 49] iPhone7, [00000259AFF02200][00000259AA080280 49] iPodTouch7, [00000259AFF41300][00000259AA088400 49] iPhone5S, [00000259AFF00F00][00000259AA08C580 49] iPhone6Plus, [00000259AFF42400][00000259AA090700 49] iPhone6S, [00000259AFF02E00][00000259AA094880 49] iPhone6SPlus, [00000259AFF43B00][00000259AA098A00 49] iPhone7Plus, [00000259AFF00E00][00000259AA09CB80 49] iPhoneSE, [00000259AFF40300][00000259AA0A0D00 49] iPhone8, [00000259AFF02F00][00000259AF38EE40 49] iPhone8Plus, [00000259AFF41800][00000259AA0A4F80 49] iPhoneX, [00000259AFF00100][00000259AA0A90C0 49] iPhoneXS, [00000259AFF41A00][00000259AA0B1240 49] iPhoneXSMax, [00000259AFF00700][00000259AA0B53C0 49] iPhoneXR, [00000259AFF40500][00000259AA0B9540 49] iPhone11, [00000259AFF02600][00000259AA0CF6C0 49] iPhone11Pro, [00000259AFF42C00][00000259AA0D3840 49] iPhone11ProMax, [00000259AFF00800][00000259AA0D79C0 49] iPhoneSE2, [00000259AFF41E00][00000259A9EC9B40 49] iPhone12Mini, [00000259AFF02800][00000259A9ECC140 49] iPhone12, [00000259AFF43300][00000259A9ED02C0 49] iPhone12Pro, [00000259AFF03B00][00000259A9ED4440 49] iPhone12ProMax, [00000259AFF42D00][00000259A9ED85C0 49] iPadPro105, [00000259AFF00A00][00000259A9EDC740 49] iPadPro129, [00000259AFF41C00][00000259A9EE08C0 49] iPadPro97, [00000259AFF01A00][00000259A9EE4A40 49] iPadPro2_129, [00000259AFF43900][00000259AA11CBC0 49] iPad5, [00000259AFF03400][00000259AA120D40 49] iPad6, [00000259AFF41600][00000259AA1AEEC0 49] iPad7, [00000259AFF02500][00000259AA0AD000 49] iPad8, [00000259AFF41200][00000259B03D9140 49] iPadPro11, [00000259AFF00600][00000259B03DD280 49] iPadPro2_11, [00000259AFF41500][00000259B03E13C0 49] iPadPro3_129, [00000259AFF00400][00000259B03E9540 49] iPadPro4_129, [00000259AFF42A00][00000259B03ED6C0 49] AppleTV, [00000259AFF01C00][00000259B03F1840 49] AppleTV4K, [00000259AFF46300][00000259B03F59C0 49] TVOS, [00000259B0001300][00000259B03FDB40 49] Mac, [00000259AFF45E00][00000259B0400140 49] MacClient, [00000259B0001900][00000259B04042C0 49] MacNoEditor, [00000259AFF47800][00000259B0408440 49] MacServer, [00000259B0001C00][00000259B040C5C0 49] Linux, [00000259AFF47200][00000259B0410740 49] LinuxAArch64, [00000259B0000300][00000259B04148C0 49] LinuxNoEditor, [00000259AFF44800][00000259B0418A40 49] LinuxAArch64NoEditor, [00000259B0001500][00000259B041CBC0 49] LinuxClient, [00000259AFF47000][00000259B0420D40 49] LinuxAArch64Client, [00000259B0001A00][00000259B0424EC0 49] LinuxServer, [00000259AFF45000][00000259B0459040 49] LinuxAArch64Server, [00000259B0001800][00000259B03E5180 49] Android, [00000259AFF46000][00000259B04612C0 49] Android_Low, [00000259B0002100][00000259B0465400 49] Android_Mid, [00000259AFF47700][00000259B0471540 49] Android_High, [00000259B0000800][00000259B04796C0 49] Android_Default, [00000259AFF47C00][00000259B047D840 49] Android_Adreno4xx, [00000259B0001B00][00000259B053B9C0 49] Android_Adreno5xx_Low, [00000259AFF44B00][00000259B057BB40 49] Android_Adreno5xx, [00000259B0000F00][00000259B0628140 49] Android_Adreno6xx, [00000259AFF01600][00000259A28802C0 49] Android_Adreno6xx_Vulkan, [00000259AFF41B00][00000259A2884440 49] Android_Mali_T6xx, [00000259AFF01E00][00000259B07B45C0 49] Android_Mali_T7xx, [00000259AFF43A00][00000259A288C740 49] Android_Mali_T8xx, [00000259AFF03200][00000259A28908C0 49] Android_Mali_G71, [00000259AFF42600][00000259A8BE0A40 49] Android_Mali_G72, [00000259AFF03700][00000259A8C14BC0 49] Android_Mali_G72_Vulkan, [00000259AFF43F00][00000259A8C38D40 49] Android_Mali_G76, [00000259AFF02700][00000259A9F08EC0 49] Android_Mali_G76_Vulkan, [00000259AFF43E00][00000259A9F47040 49] Android_Mali_G77, [00000259B0000100][00000259A9F4B1C0 49] Android_Mali_G77_Vulkan, [00000259AFF42B00][00000259A9F4F340 49] Android_Mali_G78, [00000259B0001200][00000259B0475480 49] Android_Mali_G78_Vulkan, [00000259AFF42100][00000259A9F535C0 49] Android_Mali_G710, [00000259B0001100][00000259A9F57700 49] Android_Mali_G710_Vulkan, [00000259AFF43500][00000259B13ED880 49] Android_Vulkan_SM5, [00000259B0000700][00000259A9F5BA00 49] Android_PowerVR_G6xxx, [00000259AFF43C00][00000259A9F5FB80 49] Android_PowerVR_GT7xxx, [00000259B0001D00][00000259B0614180 49] Android_PowerVR_GE8xxx, [00000259AFF42200][00000259B0618300 49] Android_PowerVR_GM9xxx, [00000259B0002800][00000259B061C480 49] Android_PowerVR_GM9xxx_Vulkan, [00000259AFF41D00][00000259B0620600 49] Android_TegraK1, [00000259B0001700][00000259B0624780 49] Android_Unknown_Vulkan, [00000259AFF40A00][00000259AA192900 49] Lumin, [00000259B0000D00][00000259AA196A80 49] Lumin_Desktop, [00000259AFF41700][00000259B078AC00 49] HoloLens, 
+[2023.03.25-20.40.13:772][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2023.03.25-20.40.13:773][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2023.03.25-20.40.13:773][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2023.03.25-20.40.13:773][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2023.03.25-20.40.13:773][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2023.03.25-20.40.13:939][  0]LogNetVersion: ProfAware_Repair 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 3646709364)
+[2023.03.25-20.40.22:013][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2023.03.25-20.40.22:325][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2023.03.25-20.40.22:340][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2023.03.25-20.40.22:340][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2023.03.25-20.40.22:340][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2023.03.25-20.40.26:053][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: F09385B84A6BE36AC2921094621F914A | Instance: D8514A3C494924896437CA815FCB68B6 (DESKTOP-S4OV2M6-3076).
+[2023.03.25-20.40.26:688][  0]LogPython: Using Python 3.7.7
+[2023.03.25-20.40.29:116][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2023.03.25-20.40.29:178][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2023.03.25-20.40.31:134][  0]SourceControl: Source control is disabled
+[2023.03.25-20.40.31:134][  0]SourceControl: Source control is disabled
+[2023.03.25-20.40.31:232][  0]SourceControl: Source control is disabled
+[2023.03.25-20.40.31:303][  0]SourceControl: Source control is disabled
+[2023.03.25-20.40.31:481][  0]SourceControl: Source control is disabled
+[2023.03.25-20.40.31:530][  0]LogUProjectInfo: Found projects:
+[2023.03.25-20.40.34:613][  0]LogOpenImageDenoise: OIDN starting up
+[2023.03.25-20.40.35:407][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2023.03.25-20.40.35:618][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.25-20.40.35:618][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.03.25-20.40.37:193][  0]LogCollectionManager: Loaded 0 collections in 0.003693 seconds
+[2023.03.25-20.40.37:442][  0]LogFileCache: Scanning file cache for directory 'D:/ProfAware-gamejam/ProfAware_Repair/Saved/Collections/' took 0.00s
+[2023.03.25-20.40.37:442][  0]LogFileCache: Scanning file cache for directory 'D:/ProfAware-gamejam/ProfAware_Repair/Content/Developers/albee/Collections/' took 0.00s
+[2023.03.25-20.40.37:442][  0]LogFileCache: Scanning file cache for directory 'D:/ProfAware-gamejam/ProfAware_Repair/Content/Collections/' took 0.00s
+[2023.03.25-20.40.37:442][  0]LogOcInput: OculusInput pre-init called
+[2023.03.25-20.40.38:573][  0]LogEngine: Initializing Engine...
+[2023.03.25-20.40.38:715][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2023.03.25-20.40.38:715][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2023.03.25-20.40.38:717][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2023.03.25-20.40.38:726][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.004 s
+[2023.03.25-20.40.39:498][  0]LogInit: Initializing FReadOnlyCVARCache
+[2023.03.25-20.40.39:600][  0]LogAIModule: Creating AISystem for world Untitled
+[2023.03.25-20.40.39:607][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2023.03.25-20.40.39:661][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2023.03.25-20.40.39:673][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2023.03.25-20.40.39:675][  0]LogAudio: Display: Audio Device Manager Initialized
+[2023.03.25-20.40.39:675][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2023.03.25-20.40.39:677][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.25-20.40.39:677][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.25-20.40.39:677][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.25-20.40.39:677][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.25-20.40.39:677][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.25-20.40.39:677][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.25-20.40.39:677][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.25-20.40.39:678][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.25-20.40.39:678][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.25-20.40.39:678][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.25-20.40.39:679][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.25-20.40.39:679][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.25-20.40.39:796][  0]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.25-20.40.39:796][  0]LogAudioMixer: Display: 1: FrontRight
+[2023.03.25-20.40.39:832][  0]LogAudioMixer: Display: Using Audio Device Headphones (2- Hesh Evo)
+[2023.03.25-20.40.39:836][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.25-20.40.39:897][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.25-20.40.39:898][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.25-20.40.39:901][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.25-20.40.39:901][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.25-20.40.39:901][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.25-20.40.39:903][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.25-20.40.39:903][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.25-20.40.39:903][  0]LogInit: FAudioDevice initialized.
+[2023.03.25-20.40.39:906][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2023.03.25-20.40.39:906][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2023.03.25-20.40.40:052][  0]LogDerivedDataCache: Saved boot cache 0.15s 94MB C:/Users/albee/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2023.03.25-20.40.40:053][  0]LogInit: Texture streaming: Enabled
+[2023.03.25-20.40.40:234][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2023.03.25-20.40.40:283][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2023.03.25-20.40.40:284][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2023.03.25-20.40.40:288][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2023.03.25-20.40.40:919][  0]LogInit: Transaction tracking system initialized
+[2023.03.25-20.40.41:231][  0]BlueprintLog: New page: Editor Load
+[2023.03.25-20.40.41:942][  0]LocalizationService: Localization service is disabled
+[2023.03.25-20.40.42:252][  0]TimingProfiler: Initialize
+[2023.03.25-20.40.42:256][  0]TimingProfiler: OnSessionChanged
+[2023.03.25-20.40.42:257][  0]LoadingProfiler: Initialize
+[2023.03.25-20.40.42:258][  0]LoadingProfiler: OnSessionChanged
+[2023.03.25-20.40.42:258][  0]NetworkingProfiler: Initialize
+[2023.03.25-20.40.42:259][  0]NetworkingProfiler: OnSessionChanged
+[2023.03.25-20.40.42:259][  0]MemoryProfiler: Initialize
+[2023.03.25-20.40.42:259][  0]MemoryProfiler: OnSessionChanged
+[2023.03.25-20.40.43:507][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.03.25-20.40.43:507][  0]LogCook: Display: Mobile HDR setting 1
+[2023.03.25-20.40.44:151][  0]LogFileCache: Scanning file cache for directory 'D:/ProfAware-gamejam/ProfAware_Repair/Content/' took 0.02s
+[2023.03.25-20.40.46:200][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2023.03.25-20.40.46:214][  0]SourceControl: Source control is disabled
+[2023.03.25-20.40.46:215][  0]LogUnrealEdMisc: Loading editor; pre map load, took 67.905
+[2023.03.25-20.40.46:218][  0]Cmd: MAP LOAD FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/NewWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.03.25-20.40.46:219][  0]LightingResults: New page: Lighting Build
+[2023.03.25-20.40.46:226][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2023.03.25-20.40.46:227][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.25-20.40.46:228][  0]MapCheck: New page: Map Check
+[2023.03.25-20.40.46:228][  0]LightingResults: New page: Lighting Build
+[2023.03.25-20.40.46:269][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.25-20.40.46:279][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.03.25-20.40.49:187][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'NewWorld'.
+[2023.03.25-20.40.49:190][  0]LogAIModule: Creating AISystem for world NewWorld
+[2023.03.25-20.40.49:239][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.03.25-20.40.49:281][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2023.03.25-20.40.49:283][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.03.25-20.40.49:284][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.267ms to complete.
+[2023.03.25-20.40.49:284][  0]LogFileHelpers: Loading map 'NewWorld' took 3.068
+[2023.03.25-20.40.49:330][  0]LogUnrealEdMisc: Total Editor Startup Time, took 71.020
+[2023.03.25-20.40.49:635][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.25-20.40.49:647][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.25-20.40.49:658][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.25-20.40.49:673][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.25-20.40.49:728][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0181 seconds. Added 3822 classes and 928 folders.
+[2023.03.25-20.40.49:763][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2023.03.25-20.40.49:811][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.25-20.40.49:811][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.25-20.40.49:811][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.25-20.40.49:811][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.25-20.40.49:811][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2023.03.25-20.40.49:811][  0]LogPakFile: OnPakFileMounted2Time == 0.000512
+[2023.03.25-20.40.49:831][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.03.25-20.40.49:831][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.25-20.40.49:831][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.03.25-20.40.49:831][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.25-20.40.49:831][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2023.03.25-20.40.49:831][  0]LogPakFile: OnPakFileMounted2Time == 0.000071
+[2023.03.25-20.40.49:852][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2023.03.25-20.40.49:852][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.25-20.40.49:852][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2023.03.25-20.40.49:852][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.25-20.40.49:852][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2023.03.25-20.40.49:852][  0]LogPakFile: OnPakFileMounted2Time == 0.000075
+[2023.03.25-20.40.49:864][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.25-20.40.49:865][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.25-20.40.49:865][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.25-20.40.49:865][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.25-20.40.49:865][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/StarterContent.upack)
+[2023.03.25-20.40.49:865][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2023.03.25-20.40.49:909][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.03.25-20.40.49:909][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.25-20.40.49:909][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.03.25-20.40.49:909][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.25-20.40.49:909][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2023.03.25-20.40.49:909][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2023.03.25-20.40.49:940][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.03.25-20.40.49:940][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.25-20.40.49:940][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.03.25-20.40.49:940][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.25-20.40.49:940][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2023.03.25-20.40.49:940][  0]LogPakFile: OnPakFileMounted2Time == 0.000082
+[2023.03.25-20.40.49:961][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.03.25-20.40.49:961][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.25-20.40.49:961][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.03.25-20.40.49:961][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.25-20.40.49:961][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2023.03.25-20.40.49:961][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2023.03.25-20.40.49:974][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.03.25-20.40.49:974][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.25-20.40.49:974][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.03.25-20.40.49:974][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.25-20.40.49:974][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2023.03.25-20.40.49:974][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2023.03.25-20.40.49:986][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.25-20.40.49:986][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.25-20.40.49:986][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.25-20.40.49:986][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.25-20.40.49:986][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2023.03.25-20.40.49:986][  0]LogPakFile: OnPakFileMounted2Time == 0.000085
+[2023.03.25-20.40.50:000][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2023.03.25-20.40.50:000][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.25-20.40.50:000][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2023.03.25-20.40.50:000][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.25-20.40.50:000][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2023.03.25-20.40.50:000][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2023.03.25-20.40.50:011][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2023.03.25-20.40.50:011][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.25-20.40.50:011][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2023.03.25-20.40.50:011][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.25-20.40.50:011][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2023.03.25-20.40.50:011][  0]LogPakFile: OnPakFileMounted2Time == 0.000194
+[2023.03.25-20.40.50:023][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.25-20.40.50:023][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.25-20.40.50:025][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.25-20.40.50:025][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.25-20.40.50:025][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2023.03.25-20.40.50:025][  0]LogPakFile: OnPakFileMounted2Time == 0.000210
+[2023.03.25-20.40.50:035][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.25-20.40.50:035][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.25-20.40.50:035][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.25-20.40.50:035][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.25-20.40.50:035][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2023.03.25-20.40.50:035][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2023.03.25-20.40.50:046][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.25-20.40.50:046][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.25-20.40.50:046][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.25-20.40.50:046][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.25-20.40.50:046][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2023.03.25-20.40.50:046][  0]LogPakFile: OnPakFileMounted2Time == 0.000059
+[2023.03.25-20.40.50:057][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2023.03.25-20.40.50:057][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.25-20.40.50:057][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2023.03.25-20.40.50:057][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.25-20.40.50:057][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2023.03.25-20.40.50:057][  0]LogPakFile: OnPakFileMounted2Time == 0.000066
+[2023.03.25-20.40.50:069][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.25-20.40.50:069][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.25-20.40.50:069][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.25-20.40.50:069][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.25-20.40.50:069][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2023.03.25-20.40.50:069][  0]LogPakFile: OnPakFileMounted2Time == 0.000076
+[2023.03.25-20.40.50:080][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2023.03.25-20.40.50:080][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.25-20.40.50:080][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2023.03.25-20.40.50:080][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.25-20.40.50:080][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2023.03.25-20.40.50:080][  0]LogPakFile: OnPakFileMounted2Time == 0.000084
+[2023.03.25-20.40.50:092][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.25-20.40.50:092][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.25-20.40.50:092][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.25-20.40.50:092][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.25-20.40.50:092][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2023.03.25-20.40.50:092][  0]LogPakFile: OnPakFileMounted2Time == 0.000072
+[2023.03.25-20.40.50:102][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.25-20.40.50:102][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.25-20.40.50:102][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.25-20.40.50:102][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.25-20.40.50:102][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2023.03.25-20.40.50:102][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2023.03.25-20.40.50:118][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.25-20.40.50:119][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.25-20.40.50:119][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.25-20.40.50:119][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.25-20.40.50:119][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2023.03.25-20.40.50:119][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2023.03.25-20.40.50:131][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2023.03.25-20.40.50:131][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.25-20.40.50:131][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2023.03.25-20.40.50:131][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.25-20.40.50:132][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2023.03.25-20.40.50:132][  0]LogPakFile: OnPakFileMounted2Time == 0.000062
+[2023.03.25-20.40.50:141][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2023.03.25-20.40.50:141][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.25-20.40.50:141][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2023.03.25-20.40.50:141][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.25-20.40.50:141][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2023.03.25-20.40.50:141][  0]LogPakFile: OnPakFileMounted2Time == 0.000070
+[2023.03.25-20.40.50:154][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2023.03.25-20.40.50:154][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.25-20.40.50:154][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2023.03.25-20.40.50:154][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.25-20.40.50:154][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2023.03.25-20.40.50:154][  0]LogPakFile: OnPakFileMounted2Time == 0.000109
+[2023.03.25-20.40.50:165][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2023.03.25-20.40.50:165][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.25-20.40.50:165][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2023.03.25-20.40.50:165][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.25-20.40.50:165][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2023.03.25-20.40.50:165][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2023.03.25-20.40.50:178][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2023.03.25-20.40.50:178][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.25-20.40.50:178][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2023.03.25-20.40.50:178][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.25-20.40.50:178][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2023.03.25-20.40.50:178][  0]LogPakFile: OnPakFileMounted2Time == 0.000069
+[2023.03.25-20.40.50:191][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2023.03.25-20.40.50:191][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2023.03.25-20.40.50:191][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2023.03.25-20.40.50:191][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2023.03.25-20.40.50:191][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2023.03.25-20.40.50:191][  0]LogPakFile: OnPakFileMounted2Time == 0.000101
+[2023.03.25-20.40.50:928][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2023.03.25-20.40.51:037][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 2 classes and 0 folders.
+[2023.03.25-20.40.51:486][  0]LogSlate: Took 0.012183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2023.03.25-20.40.51:500][  0]LogSlate: Took 0.010827 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2023.03.25-20.40.51:512][  0]LogSlate: Took 0.009546 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2023.03.25-20.40.51:766][  0]LogRenderer: Reallocating scene render targets to support 768x388 Format 10 NumSamples 1 (Frame:1).
+[2023.03.25-20.40.52:879][  0]LogSlate: Took 0.011461 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.25-20.40.53:066][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2023.03.25-20.40.53:066][  0]LogLoad: (Engine Initialization) Total time: 74.76 seconds
+[2023.03.25-20.40.53:066][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2023.03.25-20.40.53:146][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2023.03.25-20.40.53:222][  1]LogRenderer: Reallocating scene render targets to support 768x404 Format 10 NumSamples 1 (Frame:3).
+[2023.03.25-20.40.53:249][  1]LogAssetRegistry: Asset discovery search completed in 41.2277 seconds
+[2023.03.25-20.40.53:304][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000009 seconds (updated 0 objects)
+[2023.03.25-20.40.54:583][  5]LogSlate: Took 0.000412 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.03.25-20.40.58:210][128]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.25-20.40.58:226][128]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.25-20.40.58:228][128]PIE: New page: PIE session: NewWorld (25 Mar 2023, 20:40:58)
+[2023.03.25-20.40.58:233][128]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2023.03.25-20.40.58:235][128]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.03.25-20.40.58:236][128]LogPlayLevel: Creating play world package: /Game/ProfAware/UEDPIE_0_NewWorld
+[2023.03.25-20.40.58:249][128]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012197s)
+[2023.03.25-20.40.58:250][128]LogAIModule: Creating AISystem for world NewWorld
+[2023.03.25-20.40.58:251][128]LogPlayLevel: PIE: World Init took: (0.001564s)
+[2023.03.25-20.40.58:251][128]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProfAware/NewWorld.NewWorld to /Game/ProfAware/UEDPIE_0_NewWorld.NewWorld (0.014757s)
+[2023.03.25-20.40.58:264][128]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.03.25-20.40.58:269][128]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.03.25-20.40.58:269][128]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.25-20.40.58:269][128]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.25-20.40.58:269][128]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.25-20.40.58:269][128]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.25-20.40.58:269][128]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.25-20.40.58:269][128]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.25-20.40.58:269][128]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.25-20.40.58:269][128]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.25-20.40.58:270][128]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.25-20.40.58:270][128]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.25-20.40.58:270][128]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.25-20.40.58:270][128]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.25-20.40.58:276][128]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.25-20.40.58:276][128]LogAudioMixer: Display: 1: FrontRight
+[2023.03.25-20.40.58:293][128]LogAudioMixer: Display: Using Audio Device Headphones (2- Hesh Evo)
+[2023.03.25-20.40.58:293][128]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.25-20.40.58:293][128]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.25-20.40.58:293][128]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.25-20.40.58:294][128]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.25-20.40.58:294][128]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.25-20.40.58:294][128]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.25-20.40.58:296][128]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.25-20.40.58:296][128]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.25-20.40.58:296][128]LogInit: FAudioDevice initialized.
+[2023.03.25-20.40.58:296][128]LogAudio: Display: Audio Device (ID: 2) registered with world 'NewWorld'.
+[2023.03.25-20.40.58:311][128]LogLoad: Game class is 'GameModeBase'
+[2023.03.25-20.40.58:316][128]LogWorld: Bringing World /Game/ProfAware/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 0) at 2023.03.25-20.40.58
+[2023.03.25-20.40.58:316][128]LogWorld: Bringing up level for play took: 0.002526
+[2023.03.25-20.40.58:316][128]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2023.03.25-20.40.58:325][128]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2023.03.25-20.40.58:327][128]PIE: Server logged in
+[2023.03.25-20.40.58:329][128]PIE: Play in editor total start time 0.107 seconds.
+[2023.03.25-20.40.59:078][156]LogNiagara: Niagara Effect stalled GT for 0.5644 ms. Component(NiagaraComponent /Game/ProfAware/UEDPIE_0_NewWorld.NewWorld:PersistentLevel.WorldSettings.NiagaraComponent_0) System(NiagaraSystem /Game/ProfAware/Effects/MuzzleFlashEffect.MuzzleFlashEffect)
+[2023.03.25-20.42.04:497][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.25-20.42.04:497][110]LogWorld: BeginTearingDown for /Game/ProfAware/UEDPIE_0_NewWorld
+[2023.03.25-20.42.04:498][110]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2023.03.25-20.42.04:499][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.25-20.42.04:516][110]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.25-20.42.04:521][110]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.25-20.42.04:539][110]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.25-20.42.04:541][110]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.25-20.42.04:543][110]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.25-20.42.04:547][110]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.25-20.42.04:554][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.03.25-20.42.04:583][111]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2023.03.25-20.42.05:845][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/NewWorld" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.25-20.42.05:864][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2023.03.25-20.42.05:913][154]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorld4920F3A341F40FC6AF8E9B9282A8A87E.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/NewWorld.umap'
+[2023.03.25-20.42.05:948][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/NewWorld_BuiltData" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/NewWorld_BuiltData.uasset" SILENT=true
+[2023.03.25-20.42.06:026][154]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorld_BuiltData9F0F70BE49FC8D2B87C1AB9B0AFD18A6.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/NewWorld_BuiltData.uasset'
+[2023.03.25-20.42.06:057][154]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.25-20.42.06:057][154]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ProfAware/NewWorld_BuiltData.NewWorld_BuiltData
+[2023.03.25-20.42.06:057][154]LogContentValidation: Display: Validating World /Game/ProfAware/NewWorld.NewWorld
+[2023.03.25-20.47.03:394][419]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fdc3f134-bea1-42e7-acbe-b704b1f5291b}.
+[2023.03.25-20.47.03:394][419]LogAudioMixer: Resetting audio stream to device id 
+[2023.03.25-20.47.03:398][419]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.25-20.47.03:398][419]LogAudioMixer: Display: 1: FrontRight
+[2023.03.25-20.57.11:227][222]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{97910263-71c0-4e61-af99-b170cd2dd561}.
+[2023.03.25-20.57.11:227][222]LogAudioMixer: Resetting audio stream to device id 
+[2023.03.25-20.57.11:519][222]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.25-20.57.11:519][222]LogAudioMixer: Display: 1: FrontRight
+[2023.03.25-21.11.39:602][808]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fdc3f134-bea1-42e7-acbe-b704b1f5291b}.
+[2023.03.25-21.11.39:602][808]LogAudioMixer: Resetting audio stream to device id 
+[2023.03.25-21.11.42:497][808]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.25-21.11.42:497][808]LogAudioMixer: Display: 1: FrontRight
+[2023.03.25-21.11.43:163][809]LogAudioMixer: Resetting audio stream to device id 
+[2023.03.25-21.11.43:208][809]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.25-21.11.43:208][809]LogAudioMixer: Display: 1: FrontRight
+[2023.03.25-21.11.52:497][836]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{97910263-71c0-4e61-af99-b170cd2dd561}.
+[2023.03.25-21.11.52:497][836]LogAudioMixer: Resetting audio stream to device id 
+[2023.03.25-21.11.52:642][836]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.25-21.11.52:642][836]LogAudioMixer: Display: 1: FrontRight
+[2023.03.25-21.11.57:427][846]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
+[2023.03.25-21.12.00:616][847]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fdc3f134-bea1-42e7-acbe-b704b1f5291b}.
+[2023.03.25-21.12.00:812][847]LogAudioMixer: Resetting audio stream to device id 
+[2023.03.25-21.12.02:169][847]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.25-21.12.02:169][847]LogAudioMixer: Display: 1: FrontRight
+[2023.03.25-21.12.02:630][848]LogAudioMixer: Resetting audio stream to device id 
+[2023.03.25-21.12.02:665][848]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.25-21.12.02:665][848]LogAudioMixer: Display: 1: FrontRight
+[2023.03.25-21.12.25:362][920]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ProfAware/Blueprints/PlayerCharacter.PlayerCharacter
+[2023.03.25-21.12.26:410][920]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 126 classes and 0 folders.
+[2023.03.25-21.12.27:828][920]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ProfAware/Blueprints/Lamp.Lamp
+[2023.03.25-21.12.28:324][920]LogSlate: Took 0.007311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.03.25-21.12.28:543][921]LogSlate: Took 0.007092 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.03.25-21.12.42:360][352]LogSlate: Window 'PlayerCharacter' being destroyed
+[2023.03.25-21.12.44:687][466]LogSlate: Window 'Lamp' being destroyed
+[2023.03.25-23.23.34:571][890]BlueprintLog: New page: Compile Lamp
+[2023.03.25-23.23.34:834][890]LogUObjectHash: Compacting FUObjectHashTables data took   9.33ms
+[2023.03.25-23.23.34:993][890]LogSlate: Took 0.020599 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.03.25-23.23.35:325][892]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/Blueprints/Lamp" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Blueprints/Lamp.uasset" SILENT=true
+[2023.03.25-23.23.35:374][892]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/LampB7B89ADD48BC5BABCD6060ABF3A4CE8E.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Blueprints/Lamp.uasset'
+[2023.03.25-23.23.35:454][892]AssetCheck: New page: Asset Save: Lamp
+[2023.03.25-23.23.35:454][892]LogContentValidation: Display: Validating Blueprint /Game/ProfAware/Blueprints/Lamp.Lamp
+[2023.03.25-23.23.49:327][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/Blueprints/Lamp" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Blueprints/Lamp.uasset" SILENT=true
+[2023.03.25-23.23.49:374][690]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/Lamp1377B4AF4BFF44CA4371BC932EC15187.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Blueprints/Lamp.uasset'
+[2023.03.25-23.23.49:410][690]AssetCheck: New page: Asset Save: Lamp
+[2023.03.25-23.23.49:410][690]LogContentValidation: Display: Validating Blueprint /Game/ProfAware/Blueprints/Lamp.Lamp
+[2023.03.25-23.24.21:257][219]LogUObjectHash: Compacting FUObjectHashTables data took   4.19ms
+[2023.03.25-23.24.21:259][219]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/NewWorld" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Saved/Autosaves/Game/ProfAware/NewWorld_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.03.25-23.24.21:285][219]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorld_Auto1E7E6D0104B21C1DCE627CCBFFB396304.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/Autosaves/Game/ProfAware/NewWorld_Auto1.umap'
+[2023.03.25-23.24.21:287][219]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ProfAware/NewWorld' took 0.077
+[2023.03.25-23.24.21:287][219]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.077
+[2023.03.25-23.26.39:410][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/NewWorld" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.25-23.26.39:477][633]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2023.03.25-23.26.39:519][633]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorld7AA39FE54F66A8011F0276AE8FE878B9.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/NewWorld.umap'
+[2023.03.25-23.26.39:551][633]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/NewWorld_BuiltData" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/NewWorld_BuiltData.uasset" SILENT=true
+[2023.03.25-23.26.39:638][633]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorld_BuiltData6153D64C4BAC4CC756AD69B4A79456A2.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/NewWorld_BuiltData.uasset'
+[2023.03.25-23.26.39:664][633]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.25-23.26.39:664][633]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ProfAware/NewWorld_BuiltData.NewWorld_BuiltData
+[2023.03.25-23.26.39:664][633]LogContentValidation: Display: Validating World /Game/ProfAware/NewWorld.NewWorld
+[2023.03.25-23.26.43:930][848]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.25-23.26.43:945][848]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.25-23.26.43:945][848]PIE: New page: PIE session: NewWorld (25 Mar 2023, 23:26:43)
+[2023.03.25-23.26.43:946][848]LogPlayLevel: Creating play world package: /Game/ProfAware/UEDPIE_0_NewWorld
+[2023.03.25-23.26.43:960][848]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014490s)
+[2023.03.25-23.26.43:963][848]LogAIModule: Creating AISystem for world NewWorld
+[2023.03.25-23.26.43:963][848]LogPlayLevel: PIE: World Init took: (0.003118s)
+[2023.03.25-23.26.43:964][848]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProfAware/NewWorld.NewWorld to /Game/ProfAware/UEDPIE_0_NewWorld.NewWorld (0.017989s)
+[2023.03.25-23.26.44:021][848]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2023.03.25-23.26.44:022][848]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.03.25-23.26.44:022][848]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.25-23.26.44:022][848]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.25-23.26.44:022][848]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.25-23.26.44:022][848]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.25-23.26.44:022][848]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.25-23.26.44:022][848]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.25-23.26.44:023][848]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.25-23.26.44:023][848]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.25-23.26.44:024][848]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.25-23.26.44:024][848]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.25-23.26.44:024][848]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.25-23.26.44:024][848]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.25-23.26.44:030][848]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.25-23.26.44:031][848]LogAudioMixer: Display: 1: FrontRight
+[2023.03.25-23.26.44:303][848]LogAudioMixer: Display: Using Audio Device 1 - TV (AMD High Definition Audio Device)
+[2023.03.25-23.26.44:304][848]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.25-23.26.44:304][848]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.25-23.26.44:304][848]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.25-23.26.44:305][848]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.25-23.26.44:306][848]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.25-23.26.44:306][848]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.25-23.26.44:307][848]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.25-23.26.44:307][848]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.25-23.26.44:307][848]LogInit: FAudioDevice initialized.
+[2023.03.25-23.26.44:307][848]LogAudio: Display: Audio Device (ID: 3) registered with world 'NewWorld'.
+[2023.03.25-23.26.44:326][848]LogLoad: Game class is 'GameModeBase'
+[2023.03.25-23.26.44:328][848]LogWorld: Bringing World /Game/ProfAware/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 60) at 2023.03.25-23.26.44
+[2023.03.25-23.26.44:329][848]LogWorld: Bringing up level for play took: 0.002481
+[2023.03.25-23.26.44:329][848]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2023.03.25-23.26.44:334][848]PIE: Server logged in
+[2023.03.25-23.26.44:336][848]PIE: Play in editor total start time 0.393 seconds.
+[2023.03.25-23.26.44:799][871]LogNiagara: Niagara Effect stalled GT for 0.2392 ms. Component(NiagaraComponent /Game/ProfAware/UEDPIE_0_NewWorld.NewWorld:PersistentLevel.WorldSettings.NiagaraComponent_1) System(NiagaraSystem /Game/ProfAware/Effects/ExplosionEffect.ExplosionEffect)
+[2023.03.25-23.26.46:743][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.25-23.26.46:743][985]LogWorld: BeginTearingDown for /Game/ProfAware/UEDPIE_0_NewWorld
+[2023.03.25-23.26.46:743][985]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2023.03.25-23.26.46:743][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.25-23.26.46:756][985]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.25-23.26.46:763][985]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.25-23.26.46:810][985]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.25-23.26.46:810][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.25-23.26.46:812][985]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.25-23.26.46:827][985]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.25-23.26.46:834][985]LogUObjectHash: Compacting FUObjectHashTables data took   5.44ms
+[2023.03.25-23.26.46:863][986]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2023.03.25-23.26.49:463][113]LogRenderer: Reallocating scene render targets to support 808x404 Format 10 NumSamples 1 (Frame:1).
+[2023.03.25-23.26.57:488][534]BlueprintLog: New page: Compile PlayerCharacter
+[2023.03.25-23.26.57:627][534]LogUObjectHash: Compacting FUObjectHashTables data took   3.97ms
+[2023.03.25-23.26.58:405][555]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/Blueprints/PlayerCharacter" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Blueprints/PlayerCharacter.uasset" SILENT=true
+[2023.03.25-23.26.58:544][555]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/PlayerCharacter00F5797D42E675B3C5E27C848179E1CE.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Blueprints/PlayerCharacter.uasset'
+[2023.03.25-23.26.58:586][555]AssetCheck: New page: Asset Save: PlayerCharacter
+[2023.03.25-23.26.58:586][555]LogContentValidation: Display: Validating Blueprint /Game/ProfAware/Blueprints/PlayerCharacter.PlayerCharacter
+[2023.03.25-23.26.59:616][604]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.25-23.26.59:628][604]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.25-23.26.59:628][604]PIE: New page: PIE session: NewWorld (25 Mar 2023, 23:26:59)
+[2023.03.25-23.26.59:628][604]LogPlayLevel: Creating play world package: /Game/ProfAware/UEDPIE_0_NewWorld
+[2023.03.25-23.26.59:638][604]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009981s)
+[2023.03.25-23.26.59:640][604]LogAIModule: Creating AISystem for world NewWorld
+[2023.03.25-23.26.59:641][604]LogPlayLevel: PIE: World Init took: (0.002401s)
+[2023.03.25-23.26.59:641][604]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProfAware/NewWorld.NewWorld to /Game/ProfAware/UEDPIE_0_NewWorld.NewWorld (0.012587s)
+[2023.03.25-23.26.59:691][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2023.03.25-23.26.59:693][604]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.03.25-23.26.59:693][604]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.25-23.26.59:693][604]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.25-23.26.59:693][604]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.25-23.26.59:693][604]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.25-23.26.59:693][604]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.25-23.26.59:693][604]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.25-23.26.59:693][604]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.25-23.26.59:693][604]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.25-23.26.59:694][604]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.25-23.26.59:694][604]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.25-23.26.59:694][604]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.25-23.26.59:694][604]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.25-23.26.59:699][604]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.25-23.26.59:699][604]LogAudioMixer: Display: 1: FrontRight
+[2023.03.25-23.26.59:959][604]LogAudioMixer: Display: Using Audio Device 1 - TV (AMD High Definition Audio Device)
+[2023.03.25-23.26.59:960][604]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.25-23.26.59:960][604]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.25-23.26.59:960][604]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.25-23.26.59:960][604]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.25-23.26.59:961][604]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.25-23.26.59:961][604]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.25-23.26.59:963][604]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.25-23.26.59:964][604]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.25-23.26.59:964][604]LogInit: FAudioDevice initialized.
+[2023.03.25-23.26.59:964][604]LogAudio: Display: Audio Device (ID: 4) registered with world 'NewWorld'.
+[2023.03.25-23.27.00:028][604]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.25-23.27.00:029][604]LogLoad: Game class is 'GameModeBase'
+[2023.03.25-23.27.00:033][604]LogWorld: Bringing World /Game/ProfAware/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 60) at 2023.03.25-23.27.00
+[2023.03.25-23.27.00:034][604]LogWorld: Bringing up level for play took: 0.003846
+[2023.03.25-23.27.00:034][604]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2023.03.25-23.27.00:037][604]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.25-23.27.00:040][604]PIE: Server logged in
+[2023.03.25-23.27.00:042][604]PIE: Play in editor total start time 0.416 seconds.
+[2023.03.25-23.27.00:081][605]LogRenderer: Reallocating scene render targets to support 1280x688 Format 10 NumSamples 1 (Frame:1).
+[2023.03.25-23.27.03:833][721]LogNiagara: Niagara Effect stalled GT for 0.2523 ms. Component(NiagaraComponent /Game/ProfAware/UEDPIE_0_NewWorld.NewWorld:PersistentLevel.WorldSettings.NiagaraComponent_10) System(NiagaraSystem /Game/ProfAware/Effects/MuzzleFlashEffect.MuzzleFlashEffect)
+[2023.03.25-23.28.04:182][430]LogNiagara: Niagara Effect stalled GT for 0.2508 ms. Component(NiagaraComponent /Game/ProfAware/UEDPIE_0_NewWorld.NewWorld:PersistentLevel.WorldSettings.NiagaraComponent_439) System(NiagaraSystem /Game/ProfAware/Effects/ExplosionEffect.ExplosionEffect)
+[2023.03.25-23.28.19:795][682]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.25-23.28.19:795][682]LogWorld: BeginTearingDown for /Game/ProfAware/UEDPIE_0_NewWorld
+[2023.03.25-23.28.19:795][682]LogSlate: Window 'ProfAware_Repair Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.03.25-23.28.19:838][682]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2023.03.25-23.28.19:839][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.25-23.28.19:878][682]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.25-23.28.19:888][682]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.25-23.28.20:068][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.25-23.28.20:069][682]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.25-23.28.20:100][682]LogUObjectHash: Compacting FUObjectHashTables data took   9.97ms
+[2023.03.25-23.28.20:138][683]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2023.03.25-23.28.27:487][ 17]BlueprintLog: New page: Compile Lamp
+[2023.03.25-23.28.27:592][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2023.03.25-23.28.28:274][ 42]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/Blueprints/Lamp" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Blueprints/Lamp.uasset" SILENT=true
+[2023.03.25-23.28.28:326][ 42]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/Lamp6BCB39BF4199CBC684EB72BF81DCD85F.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Blueprints/Lamp.uasset'
+[2023.03.25-23.28.28:350][ 42]AssetCheck: New page: Asset Save: Lamp
+[2023.03.25-23.28.28:350][ 42]LogContentValidation: Display: Validating Blueprint /Game/ProfAware/Blueprints/Lamp.Lamp
+[2023.03.25-23.28.29:597][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/NewWorld" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.25-23.28.29:660][102]LogUObjectHash: Compacting FUObjectHashTables data took   5.34ms
+[2023.03.25-23.28.29:692][102]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorldC7C7F450401782C4FF8EB89F23E303AA.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/NewWorld.umap'
+[2023.03.25-23.28.29:719][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/NewWorld_BuiltData" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/NewWorld_BuiltData.uasset" SILENT=true
+[2023.03.25-23.28.29:786][102]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorld_BuiltData2D524B0140A4C91AD3D64EBF21846469.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/NewWorld_BuiltData.uasset'
+[2023.03.25-23.28.29:810][102]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.25-23.28.29:810][102]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ProfAware/NewWorld_BuiltData.NewWorld_BuiltData
+[2023.03.25-23.28.29:810][102]LogContentValidation: Display: Validating World /Game/ProfAware/NewWorld.NewWorld
+[2023.03.25-23.29.00:326][659]BlueprintLog: New page: Compile PlayerCharacter
+[2023.03.25-23.29.00:454][659]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2023.03.25-23.29.01:491][694]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.25-23.29.01:502][694]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.25-23.29.01:502][694]PIE: New page: PIE session: NewWorld (25 Mar 2023, 23:29:01)
+[2023.03.25-23.29.01:502][694]LogPlayLevel: Creating play world package: /Game/ProfAware/UEDPIE_0_NewWorld
+[2023.03.25-23.29.01:512][694]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009605s)
+[2023.03.25-23.29.01:513][694]LogAIModule: Creating AISystem for world NewWorld
+[2023.03.25-23.29.01:513][694]LogPlayLevel: PIE: World Init took: (0.001608s)
+[2023.03.25-23.29.01:513][694]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProfAware/NewWorld.NewWorld to /Game/ProfAware/UEDPIE_0_NewWorld.NewWorld (0.011437s)
+[2023.03.25-23.29.01:563][694]LogUObjectHash: Compacting FUObjectHashTables data took   4.51ms
+[2023.03.25-23.29.01:564][694]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.03.25-23.29.01:565][694]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.25-23.29.01:565][694]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.25-23.29.01:565][694]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.25-23.29.01:565][694]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.25-23.29.01:565][694]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.25-23.29.01:565][694]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.25-23.29.01:565][694]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.25-23.29.01:565][694]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.25-23.29.01:566][694]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.25-23.29.01:566][694]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.25-23.29.01:566][694]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.25-23.29.01:566][694]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.25-23.29.01:571][694]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.25-23.29.01:571][694]LogAudioMixer: Display: 1: FrontRight
+[2023.03.25-23.29.01:830][694]LogAudioMixer: Display: Using Audio Device 1 - TV (AMD High Definition Audio Device)
+[2023.03.25-23.29.01:831][694]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.25-23.29.01:831][694]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.25-23.29.01:831][694]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.25-23.29.01:832][694]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.25-23.29.01:832][694]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.25-23.29.01:832][694]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.25-23.29.01:834][694]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.25-23.29.01:835][694]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.25-23.29.01:835][694]LogInit: FAudioDevice initialized.
+[2023.03.25-23.29.01:835][694]LogAudio: Display: Audio Device (ID: 5) registered with world 'NewWorld'.
+[2023.03.25-23.29.01:903][694]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.25-23.29.01:903][694]LogLoad: Game class is 'GameModeBase'
+[2023.03.25-23.29.01:906][694]LogWorld: Bringing World /Game/ProfAware/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 60) at 2023.03.25-23.29.01
+[2023.03.25-23.29.01:906][694]LogWorld: Bringing up level for play took: 0.002290
+[2023.03.25-23.29.01:906][694]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2023.03.25-23.29.01:910][694]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.03.25-23.29.01:913][694]PIE: Server logged in
+[2023.03.25-23.29.01:914][694]PIE: Play in editor total start time 0.414 seconds.
+[2023.03.25-23.29.05:721][843]LogSlate: Window 'ProfAware_Repair Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2023.03.25-23.29.05:760][843]LogWorld: BeginTearingDown for /Game/ProfAware/UEDPIE_0_NewWorld
+[2023.03.25-23.29.05:782][843]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2023.03.25-23.29.05:783][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.25-23.29.05:797][843]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.25-23.29.05:804][843]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.25-23.29.05:849][843]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.25-23.29.05:849][843]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.25-23.29.05:850][843]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.25-23.29.05:873][843]LogUObjectHash: Compacting FUObjectHashTables data took   5.10ms
+[2023.03.25-23.29.05:920][844]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.03.25-23.29.08:808][972]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.25-23.29.08:821][972]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.25-23.29.08:822][972]PIE: New page: PIE session: NewWorld (25 Mar 2023, 23:29:08)
+[2023.03.25-23.29.08:822][972]LogPlayLevel: Creating play world package: /Game/ProfAware/UEDPIE_0_NewWorld
+[2023.03.25-23.29.08:832][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009343s)
+[2023.03.25-23.29.08:833][972]LogAIModule: Creating AISystem for world NewWorld
+[2023.03.25-23.29.08:834][972]LogPlayLevel: PIE: World Init took: (0.001792s)
+[2023.03.25-23.29.08:834][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProfAware/NewWorld.NewWorld to /Game/ProfAware/UEDPIE_0_NewWorld.NewWorld (0.011405s)
+[2023.03.25-23.29.08:882][972]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2023.03.25-23.29.08:883][972]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.03.25-23.29.08:883][972]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.25-23.29.08:883][972]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.25-23.29.08:883][972]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.25-23.29.08:883][972]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.25-23.29.08:883][972]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.25-23.29.08:883][972]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.25-23.29.08:883][972]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.25-23.29.08:883][972]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.25-23.29.08:884][972]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.25-23.29.08:884][972]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.25-23.29.08:884][972]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.25-23.29.08:884][972]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.25-23.29.08:890][972]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.25-23.29.08:890][972]LogAudioMixer: Display: 1: FrontRight
+[2023.03.25-23.29.09:159][972]LogAudioMixer: Display: Using Audio Device 1 - TV (AMD High Definition Audio Device)
+[2023.03.25-23.29.09:160][972]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.25-23.29.09:160][972]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.25-23.29.09:160][972]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.25-23.29.09:161][972]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.25-23.29.09:161][972]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.25-23.29.09:161][972]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.25-23.29.09:163][972]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.25-23.29.09:163][972]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.25-23.29.09:163][972]LogInit: FAudioDevice initialized.
+[2023.03.25-23.29.09:163][972]LogAudio: Display: Audio Device (ID: 6) registered with world 'NewWorld'.
+[2023.03.25-23.29.09:179][972]LogLoad: Game class is 'GameModeBase'
+[2023.03.25-23.29.09:181][972]LogWorld: Bringing World /Game/ProfAware/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 60) at 2023.03.25-23.29.09
+[2023.03.25-23.29.09:181][972]LogWorld: Bringing up level for play took: 0.001933
+[2023.03.25-23.29.09:181][972]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2023.03.25-23.29.09:185][972]PIE: Server logged in
+[2023.03.25-23.29.09:186][972]PIE: Play in editor total start time 0.366 seconds.
+[2023.03.25-23.29.12:074][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.25-23.29.12:074][140]LogWorld: BeginTearingDown for /Game/ProfAware/UEDPIE_0_NewWorld
+[2023.03.25-23.29.12:074][140]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2023.03.25-23.29.12:074][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.25-23.29.12:087][140]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.25-23.29.12:094][140]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.25-23.29.12:150][140]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.25-23.29.12:150][140]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.25-23.29.12:152][140]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.25-23.29.12:171][140]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.25-23.29.12:179][140]LogUObjectHash: Compacting FUObjectHashTables data took   5.66ms
+[2023.03.25-23.29.12:211][141]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.03.25-23.29.32:475][259]BlueprintLog: New page: Compile PlayerCharacter
+[2023.03.25-23.29.32:597][259]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2023.03.25-23.29.33:421][287]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/Blueprints/PlayerCharacter" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Blueprints/PlayerCharacter.uasset" SILENT=true
+[2023.03.25-23.29.33:516][287]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/PlayerCharacter65A6C3654A1FFD616A644B8EBD330368.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Blueprints/PlayerCharacter.uasset'
+[2023.03.25-23.29.33:543][287]AssetCheck: New page: Asset Save: PlayerCharacter
+[2023.03.25-23.29.33:543][287]LogContentValidation: Display: Validating Blueprint /Game/ProfAware/Blueprints/PlayerCharacter.PlayerCharacter
+[2023.03.25-23.29.34:725][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/NewWorld" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.25-23.29.34:781][337]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2023.03.25-23.29.34:808][337]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorldC21EE1024CCB8045C869E6A3D43F4A00.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/NewWorld.umap'
+[2023.03.25-23.29.34:833][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/NewWorld_BuiltData" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/NewWorld_BuiltData.uasset" SILENT=true
+[2023.03.25-23.29.34:894][337]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorld_BuiltData54DAA0484FD1C7868CA4999D345788A4.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/NewWorld_BuiltData.uasset'
+[2023.03.25-23.29.34:944][337]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.25-23.29.34:944][337]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ProfAware/NewWorld_BuiltData.NewWorld_BuiltData
+[2023.03.25-23.29.34:944][337]LogContentValidation: Display: Validating World /Game/ProfAware/NewWorld.NewWorld
+[2023.03.25-23.29.36:512][402]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.25-23.29.36:528][402]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.25-23.29.36:528][402]PIE: New page: PIE session: NewWorld (25 Mar 2023, 23:29:36)
+[2023.03.25-23.29.36:528][402]LogPlayLevel: Creating play world package: /Game/ProfAware/UEDPIE_0_NewWorld
+[2023.03.25-23.29.36:543][402]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015147s)
+[2023.03.25-23.29.36:545][402]LogAIModule: Creating AISystem for world NewWorld
+[2023.03.25-23.29.36:546][402]LogPlayLevel: PIE: World Init took: (0.002840s)
+[2023.03.25-23.29.36:546][402]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProfAware/NewWorld.NewWorld to /Game/ProfAware/UEDPIE_0_NewWorld.NewWorld (0.018340s)
+[2023.03.25-23.29.36:603][402]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2023.03.25-23.29.36:604][402]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.03.25-23.29.36:604][402]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.25-23.29.36:604][402]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.25-23.29.36:604][402]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.25-23.29.36:604][402]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.25-23.29.36:604][402]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.25-23.29.36:604][402]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.25-23.29.36:604][402]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.25-23.29.36:604][402]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.25-23.29.36:605][402]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.25-23.29.36:605][402]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.25-23.29.36:605][402]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.25-23.29.36:605][402]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.25-23.29.36:611][402]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.25-23.29.36:611][402]LogAudioMixer: Display: 1: FrontRight
+[2023.03.25-23.29.36:910][402]LogAudioMixer: Display: Using Audio Device 1 - TV (AMD High Definition Audio Device)
+[2023.03.25-23.29.36:910][402]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.25-23.29.36:910][402]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.25-23.29.36:910][402]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.25-23.29.36:911][402]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.25-23.29.36:911][402]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.25-23.29.36:911][402]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.25-23.29.36:912][402]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.25-23.29.36:913][402]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.25-23.29.36:913][402]LogInit: FAudioDevice initialized.
+[2023.03.25-23.29.36:913][402]LogAudio: Display: Audio Device (ID: 7) registered with world 'NewWorld'.
+[2023.03.25-23.29.36:924][402]LogLoad: Game class is 'GameModeBase'
+[2023.03.25-23.29.36:926][402]LogWorld: Bringing World /Game/ProfAware/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 60) at 2023.03.25-23.29.36
+[2023.03.25-23.29.36:926][402]LogWorld: Bringing up level for play took: 0.001947
+[2023.03.25-23.29.36:927][402]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2023.03.25-23.29.36:930][402]PIE: Server logged in
+[2023.03.25-23.29.36:931][402]PIE: Play in editor total start time 0.405 seconds.
+[2023.03.25-23.29.41:423][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.25-23.29.41:423][665]LogWorld: BeginTearingDown for /Game/ProfAware/UEDPIE_0_NewWorld
+[2023.03.25-23.29.41:424][665]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2023.03.25-23.29.41:424][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.25-23.29.41:439][665]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.25-23.29.41:447][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.25-23.29.41:492][665]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.25-23.29.41:493][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.25-23.29.41:495][665]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.25-23.29.41:512][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.25-23.29.41:516][665]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2023.03.25-23.29.41:543][666]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.03.25-23.31.04:048][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/NewWorld" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.25-23.31.04:092][188]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.03.25-23.31.04:117][188]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorld568EE0214259EDC47D13B88EB6380BE8.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/NewWorld.umap'
+[2023.03.25-23.31.04:139][188]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/NewWorld_BuiltData" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/NewWorld_BuiltData.uasset" SILENT=true
+[2023.03.25-23.31.04:200][188]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorld_BuiltData8897DFF34EEB9B475E8784AB33A7C214.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/NewWorld_BuiltData.uasset'
+[2023.03.25-23.31.04:225][188]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.25-23.31.04:225][188]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ProfAware/NewWorld_BuiltData.NewWorld_BuiltData
+[2023.03.25-23.31.04:226][188]LogContentValidation: Display: Validating World /Game/ProfAware/NewWorld.NewWorld
+[2023.03.25-23.31.13:310][591]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.25-23.31.13:340][591]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.25-23.31.17:736][855]LogContentBrowser: Attempting asset rename: NewFolder -> Levels
+[2023.03.25-23.31.17:737][855]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.25-23.31.35:138][665]LogMetaData: Removing '/Game/ProfAware/Levels/NewWorld.NewWorld_C' ref from Metadata '/Game/ProfAware/NewWorld.PackageMetaData'
+[2023.03.25-23.31.35:138][665]LogMetaData: Removing '/Game/ProfAware/Levels/NewWorld.NewWorld:PersistentLevel.NewWorld.EventGraph.K2Node_Event_0' ref from Metadata '/Game/ProfAware/NewWorld.PackageMetaData'
+[2023.03.25-23.31.35:138][665]LogMetaData: Removing '/Game/ProfAware/Levels/NewWorld.NewWorld:PersistentLevel.NewWorld.EventGraph.K2Node_Event_1' ref from Metadata '/Game/ProfAware/NewWorld.PackageMetaData'
+[2023.03.25-23.31.35:138][665]LogMetaData: Removing '/Game/ProfAware/Levels/NewWorld.SKEL_NewWorld_C:ReceiveBeginPlay' ref from Metadata '/Game/ProfAware/NewWorld.PackageMetaData'
+[2023.03.25-23.31.35:138][665]LogMetaData: Removing '/Game/ProfAware/Levels/NewWorld.SKEL_NewWorld_C:ReceiveTick' ref from Metadata '/Game/ProfAware/NewWorld.PackageMetaData'
+[2023.03.25-23.31.35:138][665]LogMetaData: Removing '/Game/ProfAware/Levels/NewWorld.SKEL_NewWorld_C' ref from Metadata '/Game/ProfAware/NewWorld.PackageMetaData'
+[2023.03.25-23.31.35:138][665]LogMetaData: Removing '/Game/ProfAware/Levels/NewWorld.NewWorld_C:ReceiveTick' ref from Metadata '/Game/ProfAware/NewWorld.PackageMetaData'
+[2023.03.25-23.31.35:138][665]LogMetaData: Removing '/Game/ProfAware/Levels/NewWorld.NewWorld_C:ReceiveBeginPlay' ref from Metadata '/Game/ProfAware/NewWorld.PackageMetaData'
+[2023.03.25-23.31.35:179][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/Levels/NewWorld_BuiltData" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld_BuiltData.uasset" SILENT=true
+[2023.03.25-23.31.35:250][665]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorld_BuiltData8FB12088412E9A6D7FE19A9AD26EC489.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld_BuiltData.uasset'
+[2023.03.25-23.31.35:252][665]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/Levels/NewWorld" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.25-23.31.35:311][665]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2023.03.25-23.31.35:341][665]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorld71CC00704865B7F9F9080B8830BF4053.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld.umap'
+[2023.03.25-23.31.35:360][665]LogFileHelpers: Saving map 'NewWorld' took 0.108
+[2023.03.25-23.31.35:554][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.03.25-23.31.35:598][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2023.03.25-23.31.35:657][665]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.03.25-23.31.35:704][665]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2023.03.25-23.31.35:859][665]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.25-23.31.35:859][665]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ProfAware/Levels/NewWorld_BuiltData.NewWorld_BuiltData
+[2023.03.25-23.31.35:859][665]LogContentValidation: Display: Validating World /Game/ProfAware/Levels/NewWorld.NewWorld
+[2023.03.25-23.32.13:795][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/Levels/NewWorld" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.25-23.32.13:913][312]LogUObjectHash: Compacting FUObjectHashTables data took   6.80ms
+[2023.03.25-23.32.13:939][312]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorld36D1B8FD43A738B7A210EF82C874325C.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld.umap'
+[2023.03.25-23.32.13:965][312]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/Levels/NewWorld_BuiltData" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld_BuiltData.uasset" SILENT=true
+[2023.03.25-23.32.14:025][312]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorld_BuiltData1456A14A4B33CDA3E90AB2BF43621A98.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld_BuiltData.uasset'
+[2023.03.25-23.32.14:057][312]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.25-23.32.14:057][312]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ProfAware/Levels/NewWorld_BuiltData.NewWorld_BuiltData
+[2023.03.25-23.32.14:057][312]LogContentValidation: Display: Validating World /Game/ProfAware/Levels/NewWorld.NewWorld
+[2023.03.25-23.32.16:054][398]LogTemp: Repeating last play command: Selected Viewport
+[2023.03.25-23.32.16:069][398]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.25-23.32.16:069][398]PIE: New page: PIE session: NewWorld (25 Mar 2023, 23:32:16)
+[2023.03.25-23.32.16:069][398]LogPlayLevel: Creating play world package: /Game/ProfAware/Levels/UEDPIE_0_NewWorld
+[2023.03.25-23.32.16:082][398]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012943s)
+[2023.03.25-23.32.16:084][398]LogAIModule: Creating AISystem for world NewWorld
+[2023.03.25-23.32.16:085][398]LogPlayLevel: PIE: World Init took: (0.002541s)
+[2023.03.25-23.32.16:085][398]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ProfAware/Levels/NewWorld.NewWorld to /Game/ProfAware/Levels/UEDPIE_0_NewWorld.NewWorld (0.015769s)
+[2023.03.25-23.32.16:174][398]LogUObjectHash: Compacting FUObjectHashTables data took   5.61ms
+[2023.03.25-23.32.16:175][398]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.03.25-23.32.16:175][398]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.25-23.32.16:175][398]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.25-23.32.16:175][398]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.25-23.32.16:175][398]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.25-23.32.16:175][398]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.25-23.32.16:175][398]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.03.25-23.32.16:175][398]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.25-23.32.16:175][398]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.25-23.32.16:176][398]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.25-23.32.16:176][398]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.25-23.32.16:176][398]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.25-23.32.16:176][398]LogAudioMixer: Display: Initializing audio mixer.
+[2023.03.25-23.32.16:183][398]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.25-23.32.16:183][398]LogAudioMixer: Display: 1: FrontRight
+[2023.03.25-23.32.16:444][398]LogAudioMixer: Display: Using Audio Device 1 - TV (AMD High Definition Audio Device)
+[2023.03.25-23.32.16:445][398]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.25-23.32.16:445][398]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.25-23.32.16:445][398]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.25-23.32.16:446][398]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.03.25-23.32.16:446][398]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.03.25-23.32.16:446][398]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.03.25-23.32.16:448][398]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.03.25-23.32.16:448][398]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.03.25-23.32.16:449][398]LogInit: FAudioDevice initialized.
+[2023.03.25-23.32.16:449][398]LogAudio: Display: Audio Device (ID: 8) registered with world 'NewWorld'.
+[2023.03.25-23.32.16:462][398]LogLoad: Game class is 'GameModeBase'
+[2023.03.25-23.32.16:464][398]LogWorld: Bringing World /Game/ProfAware/Levels/UEDPIE_0_NewWorld.NewWorld up for play (max tick rate 60) at 2023.03.25-23.32.16
+[2023.03.25-23.32.16:465][398]LogWorld: Bringing up level for play took: 0.001694
+[2023.03.25-23.32.16:465][398]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2023.03.25-23.32.16:469][398]PIE: Server logged in
+[2023.03.25-23.32.16:470][398]PIE: Play in editor total start time 0.403 seconds.
+[2023.03.25-23.33.53:644][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.25-23.33.53:644][719]LogWorld: BeginTearingDown for /Game/ProfAware/Levels/UEDPIE_0_NewWorld
+[2023.03.25-23.33.53:644][719]LogWorld: UWorld::CleanupWorld for NewWorld, bSessionEnded=true, bCleanupResources=true
+[2023.03.25-23.33.53:645][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.25-23.33.53:681][719]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.25-23.33.53:691][719]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.25-23.33.53:753][719]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.25-23.33.53:754][719]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.25-23.33.53:755][719]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.03.25-23.33.53:773][719]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.25-23.33.53:780][719]LogUObjectHash: Compacting FUObjectHashTables data took   5.48ms
+[2023.03.25-23.33.53:819][720]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.03.25-23.37.18:460][484]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/Blueprints/Lamp" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Blueprints/Lamp.uasset" SILENT=true
+[2023.03.25-23.37.18:500][484]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/LampFF0C91664ECD7B185E727B970F66AE74.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Blueprints/Lamp.uasset'
+[2023.03.25-23.37.18:548][484]AssetCheck: New page: Asset Save: Lamp
+[2023.03.25-23.37.18:548][484]LogContentValidation: Display: Validating Blueprint /Game/ProfAware/Blueprints/Lamp.Lamp
+[2023.03.25-23.37.19:646][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/Levels/NewWorld" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.25-23.37.19:722][531]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2023.03.25-23.37.19:749][531]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorld9E5E36734C54DE9DA0060E915558E336.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld.umap'
+[2023.03.25-23.37.19:777][531]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/Levels/NewWorld_BuiltData" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld_BuiltData.uasset" SILENT=true
+[2023.03.25-23.37.19:851][531]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorld_BuiltData24C819F249F9784AEE975F9BA56274D8.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld_BuiltData.uasset'
+[2023.03.25-23.37.19:874][531]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.25-23.37.19:874][531]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ProfAware/Levels/NewWorld_BuiltData.NewWorld_BuiltData
+[2023.03.25-23.37.19:874][531]LogContentValidation: Display: Validating World /Game/ProfAware/Levels/NewWorld.NewWorld
+[2023.03.25-23.37.30:430][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/Levels/NewWorld" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.25-23.37.30:499][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2023.03.25-23.37.30:531][ 58]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorldA50392C240DE535FADBD44A3BDA525DA.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld.umap'
+[2023.03.25-23.37.30:554][ 58]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/Levels/NewWorld_BuiltData" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld_BuiltData.uasset" SILENT=true
+[2023.03.25-23.37.30:618][ 58]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorld_BuiltData4C5876384C7E567D24E8A09AA63E22B4.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld_BuiltData.uasset'
+[2023.03.25-23.37.30:645][ 58]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.25-23.37.30:645][ 58]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ProfAware/Levels/NewWorld_BuiltData.NewWorld_BuiltData
+[2023.03.25-23.37.30:645][ 58]LogContentValidation: Display: Validating World /Game/ProfAware/Levels/NewWorld.NewWorld
+[2023.03.25-23.37.33:938][197]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.03.25-23.37.33:976][197]LogContentBrowser: Creating deferred item: NewFolder
+[2023.03.25-23.37.35:750][304]LogContentBrowser: Attempting asset rename: NewFolder -> AI
+[2023.03.25-23.37.35:750][304]LogContentBrowser: End creating deferred item NewFolder
+[2023.03.25-23.37.45:719][884]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2023.03.25-23.39.52:327][197]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.25-23.41.58:930][197]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.03.25-23.41.58:957][197]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.03.25-23.41.58:993][197]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.03.25-23.42.20:087][454]LogContentBrowser: Attempting asset rename: NewBlueprint -> AI_Character
+[2023.03.25-23.42.20:097][454]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.03.25-23.45.53:511][361]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.25-23.45.53:517][361]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.03.25-23.46.16:452][361]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.03.25-23.46.16:473][361]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2023.03.25-23.46.16:504][361]LogContentBrowser: Creating deferred item: NewBlueprint
+[2023.03.25-23.46.22:088][692]LogContentBrowser: Attempting asset rename: NewBlueprint -> AI_controller
+[2023.03.25-23.46.22:097][692]LogContentBrowser: End creating deferred item NewBlueprint
+[2023.03.25-23.46.51:652][455]LogUObjectHash: Compacting FUObjectHashTables data took   5.58ms
+[2023.03.25-23.46.52:723][455]LogSlate: Window 'Save Content' being destroyed
+[2023.03.25-23.46.52:800][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/AI/AI_Character" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/AI/AI_Character.uasset" SILENT=true
+[2023.03.25-23.46.52:810][455]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/AI_Character1864EE0E4C7D6AFD63816D98EDFE23E8.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/AI/AI_Character.uasset'
+[2023.03.25-23.46.52:812][455]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/AI/AI_controller" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/AI/AI_controller.uasset" SILENT=true
+[2023.03.25-23.46.52:822][455]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/AI_controllerF0F87D034AF9505480934486EEBDB8F3.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/AI/AI_controller.uasset'
+[2023.03.25-23.46.52:866][455]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.25-23.46.52:866][455]LogContentValidation: Display: Validating Blueprint /Game/ProfAware/AI/AI_controller.AI_controller
+[2023.03.25-23.46.52:866][455]LogContentValidation: Display: Validating Blueprint /Game/ProfAware/AI/AI_Character.AI_Character
+[2023.03.25-23.48.49:626][ 28]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ProfAware/AI/AI_Character.AI_Character
+[2023.03.25-23.49.03:062][743]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ProfAware/AI/AI_controller.AI_controller
+[2023.03.25-23.49.12:622][149]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.03.25-23.49.12:675][149]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.25-23.49.56:635][573]LogUObjectHash: Compacting FUObjectHashTables data took   7.40ms
+[2023.03.25-23.49.56:639][573]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ProfAware/Levels/NewWorld' took 0.108
+[2023.03.25-23.49.56:640][573]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ProfAware/AI/AI_Character] ([2] browsable assets)...
+[2023.03.25-23.49.56:640][573]OBJ SavePackage: Finished generating thumbnails for package [/Game/ProfAware/AI/AI_Character]
+[2023.03.25-23.49.56:648][573]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/AI_Character_Auto20E1E8D9B4C7FE64D411962AD2B6B5EFA.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/Autosaves/Game/ProfAware/AI/AI_Character_Auto2.uasset'
+[2023.03.25-23.49.56:649][573]LogFileHelpers: Auto-saving content packages took 0.010
+[2023.03.25-23.50.23:704][127]BlueprintLog: New page: Compile AI_Character
+[2023.03.25-23.50.23:854][127]LogUObjectHash: Compacting FUObjectHashTables data took   5.50ms
+[2023.03.25-23.50.24:404][149]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/AI/AI_Character" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/AI/AI_Character.uasset" SILENT=true
+[2023.03.25-23.50.24:416][149]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/AI_Character3477D48A4472C1A87FC8CB9153748D5E.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/AI/AI_Character.uasset'
+[2023.03.25-23.50.24:448][149]AssetCheck: New page: Asset Save: AI_Character
+[2023.03.25-23.50.24:448][149]LogContentValidation: Display: Validating Blueprint /Game/ProfAware/AI/AI_Character.AI_Character
+[2023.03.25-23.50.43:672][735]BlueprintLog: New page: Compile AI_Character
+[2023.03.25-23.50.43:819][735]LogUObjectHash: Compacting FUObjectHashTables data took   4.82ms
+[2023.03.25-23.50.44:217][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/AI/AI_Character" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/AI/AI_Character.uasset" SILENT=true
+[2023.03.25-23.50.44:224][746]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/AI_CharacterE48104DF425DF6487DF765A486FA09E0.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/AI/AI_Character.uasset'
+[2023.03.25-23.50.44:252][746]AssetCheck: New page: Asset Save: AI_Character
+[2023.03.25-23.50.44:253][746]LogContentValidation: Display: Validating Blueprint /Game/ProfAware/AI/AI_Character.AI_Character
+[2023.03.25-23.50.45:834][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/Levels/NewWorld" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.25-23.50.45:926][819]LogUObjectHash: Compacting FUObjectHashTables data took   8.31ms
+[2023.03.25-23.50.45:954][819]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorld4FE4037E439F10FFBA9118ACA6D19C02.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld.umap'
+[2023.03.25-23.50.45:969][819]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/Levels/NewWorld_BuiltData" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld_BuiltData.uasset" SILENT=true
+[2023.03.25-23.50.46:034][819]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorld_BuiltData8B23E73A49FF6E8E4E118AAA6CE8C2A4.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld_BuiltData.uasset'
+[2023.03.25-23.50.46:063][819]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.25-23.50.46:063][819]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ProfAware/Levels/NewWorld_BuiltData.NewWorld_BuiltData
+[2023.03.25-23.50.46:063][819]LogContentValidation: Display: Validating World /Game/ProfAware/Levels/NewWorld.NewWorld
+[2023.03.25-23.51.57:990][747]LogEditorViewport: Clicking Background
+[2023.03.25-23.52.07:723][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/Levels/NewWorld" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.25-23.52.07:800][325]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2023.03.25-23.52.07:837][325]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorld3C26E1A44EFF97372E34E5A51C5C7E18.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld.umap'
+[2023.03.25-23.52.07:865][325]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/Levels/NewWorld_BuiltData" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld_BuiltData.uasset" SILENT=true
+[2023.03.25-23.52.07:928][325]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorld_BuiltData023AE22841198BFCA76BC59EEFF59DA0.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld_BuiltData.uasset'
+[2023.03.25-23.52.07:958][325]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.25-23.52.07:958][325]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ProfAware/Levels/NewWorld_BuiltData.NewWorld_BuiltData
+[2023.03.25-23.52.07:958][325]LogContentValidation: Display: Validating World /Game/ProfAware/Levels/NewWorld.NewWorld
+[2023.03.25-23.52.44:991][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/Levels/NewWorld" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.25-23.52.45:064][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.03.25-23.52.45:092][540]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorldAB22361943EA34B37E20B5B0D142683C.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld.umap'
+[2023.03.25-23.52.45:115][540]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/Levels/NewWorld_BuiltData" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld_BuiltData.uasset" SILENT=true
+[2023.03.25-23.52.45:173][540]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorld_BuiltData0DB11E974DCB2CF94C684190883CEDCC.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld_BuiltData.uasset'
+[2023.03.25-23.52.45:203][540]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.25-23.52.45:203][540]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ProfAware/Levels/NewWorld_BuiltData.NewWorld_BuiltData
+[2023.03.25-23.52.45:204][540]LogContentValidation: Display: Validating World /Game/ProfAware/Levels/NewWorld.NewWorld
+[2023.03.25-23.52.49:836][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/Levels/NewWorld" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.25-23.52.49:910][811]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.03.25-23.52.49:934][811]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorld920063A0456FA2F90680D2BE040239C2.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld.umap'
+[2023.03.25-23.52.49:957][811]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/Levels/NewWorld_BuiltData" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld_BuiltData.uasset" SILENT=true
+[2023.03.25-23.52.50:010][811]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorld_BuiltData5EDF47104A023F83952C46A74FC67712.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld_BuiltData.uasset'
+[2023.03.25-23.52.50:038][811]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.25-23.52.50:038][811]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ProfAware/Levels/NewWorld_BuiltData.NewWorld_BuiltData
+[2023.03.25-23.52.50:038][811]LogContentValidation: Display: Validating World /Game/ProfAware/Levels/NewWorld.NewWorld
+[2023.03.25-23.54.49:188][587]LogContentBrowser: Deferred new asset file creation: NewBlackboardData
+[2023.03.25-23.54.49:224][587]LogContentBrowser: Creating deferred item: NewBlackboardData
+[2023.03.25-23.54.56:379][ 17]LogContentBrowser: Attempting asset rename: NewBlackboardData -> AI_blackboard
+[2023.03.25-23.54.56:384][ 17]LogContentBrowser: End creating deferred item NewBlackboardData
+[2023.03.25-23.54.58:666][151]LogAssetEditorSubsystem: Opening Asset editor for BlackboardData /Game/ProfAware/AI/AI_blackboard.AI_blackboard
+[2023.03.25-23.55.21:012][ 95]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.03.25-23.55.21:070][ 95]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.25-23.56.54:526][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/AI/AI_blackboard" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/AI/AI_blackboard.uasset" SILENT=true
+[2023.03.25-23.56.54:528][372]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/AI_blackboard9841CEEC45A9E707B28A17B16213A586.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/AI/AI_blackboard.uasset'
+[2023.03.25-23.56.54:560][372]AssetCheck: New page: Asset Save: AI_blackboard
+[2023.03.25-23.56.54:560][372]LogContentValidation: Display: Validating BlackboardData /Game/ProfAware/AI/AI_blackboard.AI_blackboard
+[2023.03.25-23.58.09:510][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/AI/AI_blackboard" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/AI/AI_blackboard.uasset" SILENT=true
+[2023.03.25-23.58.09:512][965]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/AI_blackboard43C235274873512FEBC43EB09791B8F0.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/AI/AI_blackboard.uasset'
+[2023.03.25-23.58.09:542][965]AssetCheck: New page: Asset Save: AI_blackboard
+[2023.03.25-23.58.09:542][965]LogContentValidation: Display: Validating BlackboardData /Game/ProfAware/AI/AI_blackboard.AI_blackboard
+[2023.03.25-23.59.09:857][628]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/AI/AI_blackboard" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/AI/AI_blackboard.uasset" SILENT=true
+[2023.03.25-23.59.09:859][628]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/AI_blackboard8E120D1E4A975998397DD6BE99F13FE4.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/AI/AI_blackboard.uasset'
+[2023.03.25-23.59.09:891][628]AssetCheck: New page: Asset Save: AI_blackboard
+[2023.03.25-23.59.09:891][628]LogContentValidation: Display: Validating BlackboardData /Game/ProfAware/AI/AI_blackboard.AI_blackboard
+[2023.03.26-00.01.23:229][291]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.03.26-00.01.23:229][291]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.26-00.01.24:730][364]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.03.26-00.01.24:731][364]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.03.26-00.01.24:731][364]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.26-00.01.25:650][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/Levels/NewWorld" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.03.26-00.01.25:777][400]LogUObjectHash: Compacting FUObjectHashTables data took   6.07ms
+[2023.03.26-00.01.25:810][400]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorld19E05760495F87DA200824A28B9583B8.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld.umap'
+[2023.03.26-00.01.25:832][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/Levels/NewWorld_BuiltData" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld_BuiltData.uasset" SILENT=true
+[2023.03.26-00.01.25:889][400]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/NewWorld_BuiltData821EF74243331BE9DC14C8891DBF7441.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/Levels/NewWorld_BuiltData.uasset'
+[2023.03.26-00.01.25:914][400]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.26-00.01.25:914][400]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ProfAware/Levels/NewWorld_BuiltData.NewWorld_BuiltData
+[2023.03.26-00.01.25:914][400]LogContentValidation: Display: Validating World /Game/ProfAware/Levels/NewWorld.NewWorld
+[2023.03.26-00.01.31:801][737]LogContentBrowser: Deferred new asset file creation: NewBehaviorTree
+[2023.03.26-00.01.31:828][737]LogContentBrowser: Creating deferred item: NewBehaviorTree
+[2023.03.26-00.01.42:522][378]LogContentBrowser: Attempting asset rename: NewBehaviorTree -> AI_BehaviourTree
+[2023.03.26-00.01.42:524][378]LogContentBrowser: End creating deferred item NewBehaviorTree
+[2023.03.26-00.01.44:157][474]LogAssetEditorSubsystem: Opening Asset editor for BehaviorTree /Game/ProfAware/AI/AI_BehaviourTree.AI_BehaviourTree
+[2023.03.26-00.01.45:874][564]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/AI/AI_BehaviourTree" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/AI/AI_BehaviourTree.uasset" SILENT=true
+[2023.03.26-00.01.45:876][564]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/AI_BehaviourTreeCA404CA64D8DB33510D6A7A41DB20BF0.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/AI/AI_BehaviourTree.uasset'
+[2023.03.26-00.01.45:905][564]AssetCheck: New page: Asset Save: AI_BehaviourTree
+[2023.03.26-00.01.45:905][564]LogContentValidation: Display: Validating BehaviorTree /Game/ProfAware/AI/AI_BehaviourTree.AI_BehaviourTree
+[2023.03.26-00.01.58:913][652]LogAudioMixer: Warning: Audio device removed, falling back to other windows default device.
+[2023.03.26-00.01.58:913][652]LogAudioMixer: Warning: Audio device removed, falling back to other windows default device.
+[2023.03.26-00.01.58:913][652]LogAudioMixer: Resetting audio stream to device id 
+[2023.03.26-00.01.58:951][652]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.26-00.01.58:951][652]LogAudioMixer: Display: 1: FrontRight
+[2023.03.26-00.02.00:048][653]LogAudioMixer: Resetting audio stream to device id 
+[2023.03.26-00.02.00:098][653]LogAudioMixer: Display: 0: FrontLeft
+[2023.03.26-00.02.00:099][653]LogAudioMixer: Display: 1: FrontRight
+[2023.03.26-00.03.45:771][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/AI/AI_BehaviourTree" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/AI/AI_BehaviourTree.uasset" SILENT=true
+[2023.03.26-00.03.45:774][ 84]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/AI_BehaviourTreeBF6F63E846F319B1C5558EA4C1C67FB1.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/AI/AI_BehaviourTree.uasset'
+[2023.03.26-00.03.45:802][ 84]AssetCheck: New page: Asset Save: AI_BehaviourTree
+[2023.03.26-00.03.45:802][ 84]LogContentValidation: Display: Validating BehaviorTree /Game/ProfAware/AI/AI_BehaviourTree.AI_BehaviourTree
+[2023.03.26-00.05.22:618][896]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/AI/AI_BehaviourTree" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/AI/AI_BehaviourTree.uasset" SILENT=true
+[2023.03.26-00.05.22:622][896]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/AI_BehaviourTree60BD7A95493A262241B22D88C2050F76.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/AI/AI_BehaviourTree.uasset'
+[2023.03.26-00.05.22:662][896]AssetCheck: New page: Asset Save: AI_BehaviourTree
+[2023.03.26-00.05.22:662][896]LogContentValidation: Display: Validating BehaviorTree /Game/ProfAware/AI/AI_BehaviourTree.AI_BehaviourTree
+[2023.03.26-00.07.22:359][205]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ProfAware/AI/BTTask_BlueprintBase_New.BTTask_BlueprintBase_New
+[2023.03.26-00.07.23:069][205]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/ProfAware/AI/BTTask_BlueprintBase_New.
+[2023.03.26-00.07.50:492][795]LogContentBrowser: Attempting asset rename: BTTask_BlueprintBase_New -> AI_chasePlayerTask
+[2023.03.26-00.07.50:527][795]LogMetaData: Removing '/Game/ProfAware/AI/AI_chasePlayerTask.SKEL_AI_chasePlayerTask_C' ref from Metadata '/Game/ProfAware/AI/BTTask_BlueprintBase_New.PackageMetaData'
+[2023.03.26-00.07.50:527][795]LogMetaData: Removing '/Game/ProfAware/AI/AI_chasePlayerTask.AI_chasePlayerTask_C' ref from Metadata '/Game/ProfAware/AI/BTTask_BlueprintBase_New.PackageMetaData'
+[2023.03.26-00.07.50:587][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/AI/AI_chasePlayerTask" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/AI/AI_chasePlayerTask.uasset" SILENT=true
+[2023.03.26-00.07.50:588][795]LogSavePackage: Moving '../../../../ProfAware-gamejam/ProfAware_Repair/Saved/AI_chasePlayerTask52A0D8A14E4F1E45353350A75517BAAF.tmp' to '../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/AI/AI_chasePlayerTask.uasset'
+[2023.03.26-00.07.50:851][795]LogUObjectHash: Compacting FUObjectHashTables data took   5.32ms
+[2023.03.26-00.07.50:922][795]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2023.03.26-00.07.50:974][795]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2023.03.26-00.07.51:078][795]LogPackageName: SearchForPackageOnDisk took   0.000s to resolve /Game/ProfAware/AI/AI_chasePlayerTask.
+[2023.03.26-00.07.51:090][795]AssetCheck: New page: Asset Save: AI_chasePlayerTask
+[2023.03.26-00.07.51:090][795]LogContentValidation: Display: Validating Blueprint /Game/ProfAware/AI/AI_chasePlayerTask.AI_chasePlayerTask
+[2023.03.26-00.08.03:396][493]LogContentBrowser: Attempting asset rename: AI_controller -> AI_Controller
+[2023.03.26-00.08.03:500][493]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ProfAware/AI/AI_controller" FILE="../../../../ProfAware-gamejam/ProfAware_Repair/Content/ProfAware/AI/AI_controller.uasset" SILENT=true
+[2023.03.26-00.08.03:502][493]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2023.03.26-00.08.03:688][493]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.187 s
+[2023.03.26-00.08.03:689][493]LogOutputDevice: Error: === Handled ensure: ===
+[2023.03.26-00.08.03:689][493]LogOutputDevice: Error: 
+[2023.03.26-00.08.03:689][493]LogOutputDevice: Error: Ensure condition failed: !SeenPaths.Contains(NewPath) [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/CoreUObject/Private/Misc/RedirectCollector.cpp] [Line: 222]
+[2023.03.26-00.08.03:689][493]LogOutputDevice: Error: Found circular redirect from /Game/ProfAware/AI/AI_controller.AI_controller_C to /Game/ProfAware/AI/AI_Controller.AI_Controller_C! Returning None instead
+[2023.03.26-00.08.03:689][493]LogOutputDevice: Error: Stack: 
+[2023.03.26-00.08.03:689][493]LogOutputDevice: Error: [Callstack] 0x00007ff96666ff53 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.26-00.08.03:689][493]LogOutputDevice: Error: [Callstack] 0x00007ff9661e3e30 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.26-00.08.03:689][493]LogOutputDevice: Error: [Callstack] 0x00007ff966581f66 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.26-00.08.03:689][493]LogOutputDevice: Error: [Callstack] 0x00007ff96659bd0e UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.26-00.08.03:689][493]LogOutputDevice: Error: [Callstack] 0x00007ff966250877 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.26-00.08.03:689][493]LogOutputDevice: Error: [Callstack] 0x00007ff95848db82 UE4Editor-Core.dll!UnknownFunction []
+[2023.03.26-00.08.03:689][493]LogOutputDevice: Error: [Callstack] 0x00007ff966593823 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.26-00.08.03:689][493]LogOutputDevice: Error: [Callstack] 0x00007ff966498a69 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.26-00.08.03:689][493]LogOutputDevice: Error: [Callstack] 0x00007ff9662c6fa6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.26-00.08.03:689][493]LogOutputDevice: Error: [Callstack] 0x00007ff96653c457 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.26-00.08.03:689][493]LogOutputDevice: Error: [Callstack] 0x00007ff96653c779 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.26-00.08.03:689][493]LogOutputDevice: Error: [Callstack] 0x00007ff9662ca1f8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.26-00.08.03:689][493]LogOutputDevice: Error: [Callstack] 0x00007ff9662c7c3c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.26-00.08.03:689][493]LogOutputDevice: Error: [Callstack] 0x00007ff9662c70be UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.26-00.08.03:689][493]LogOutputDevice: Error: [Callstack] 0x00007ff96653c457 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.26-00.08.03:689][493]LogOutputDevice: Error: [Callstack] 0x00007ff9664dcbb6 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.26-00.08.03:689][493]LogOutputDevice: Error: [Callstack] 0x00007ff96653c779 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.26-00.08.03:689][493]LogOutputDevice: Error: [Callstack] 0x00007ff9662ca1f8 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.26-00.08.03:689][493]LogOutputDevice: Error: [Callstack] 0x00007ff9662c7c3c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.26-00.08.03:689][493]LogOutputDevice: Error: [Callstack] 0x00007ff966486d74 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.26-00.08.03:690][493]LogOutputDevice: Error: [Callstack] 0x00007ff966483470 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.26-00.08.03:690][493]LogOutputDevice: Error: [Callstack] 0x00007ff966482edb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.26-00.08.03:690][493]LogOutputDevice: Error: [Callstack] 0x00007ff953ced230 UE4Editor-Engine.dll!UnknownFunction []
+[2023.03.26-00.08.03:690][493]LogOutputDevice: Error: [Callstack] 0x00007ff953cece24 UE4Editor-Engine.dll!UnknownFunction []
+[2023.03.26-00.08.03:690][493]LogOutputDevice: Error: [Callstack] 0x00007ff96651f672 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.26-00.08.03:690][493]LogOutputDevice: Error: [Callstack] 0x00007ff96654058b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.26-00.08.03:690][493]LogOutputDevice: Error: [Callstack] 0x00007ff96652661c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2023.03.26-00.08.03:690][493]LogOutputDevice: Error: [Callstack] 0x00007ff956d8a6ce UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.26-00.08.03:690][493]LogOutputDevice: Error: [Callstack] 0x00007ff956d8b1be UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.26-00.08.03:690][493]LogOutputDevice: Error: [Callstack] 0x00007ff956dc555e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.26-00.08.03:690][493]LogOutputDevice: Error: [Callstack] 0x00007ff956dc1e7c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.26-00.08.03:690][493]LogOutputDevice: Error: [Callstack] 0x00007ff957622917 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.26-00.08.03:690][493]LogOutputDevice: Error: [Callstack] 0x00007ff9570f0203 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.26-00.08.03:690][493]LogOutputDevice: Error: [Callstack] 0x00007ff9570eeb1d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.26-00.08.03:690][493]LogOutputDevice: Error: [Callstack] 0x00007ff957104e50 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2023.03.26-00.08.03:690][493]LogOutputDevice: Error: [Callstack] 0x00007ff94c1271f7 UE4Editor-AssetTools.dll!UnknownFunction []
+[2023.03.26-00.08.03:690][493]LogOutputDevice: Error: [Callstack] 0x00007ff94c0c5d1a UE4Editor-AssetTools.dll!UnknownFunction []
+[2023.03.26-00.08.03:690][493]LogOutputDevice: Error: [Callstack] 0x00007ff94c141112 UE4Editor-AssetTools.dll!UnknownFunction []
+[2023.03.26-00.08.03:690][493]LogOutputDevice: Error: [Callstack] 0x00007ff938efbd73 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.03.26-00.08.03:690][493]LogOutputDevice: Error: [Callstack] 0x00007ff938efc061 UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.03.26-00.08.03:690][493]LogOutputDevice: Error: [Callstack] 0x00007ff938efc13f UE4Editor-ContentBrowserAssetDataSource.dll!UnknownFunction []
+[2023.03.26-00.08.03:690][493]LogOutputDevice: Error: [Callstack] 0x00007ff96543c426 UE4Editor-ContentBrowserData.dll!UnknownFunction []
+[2023.03.26-00.08.03:690][493]LogOutputDevice: Error: [Callstack] 0x00007ff94c454b0e UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.03.26-00.08.03:690][493]LogOutputDevice: Error: [Callstack] 0x00007ff94c49a8ff UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.03.26-00.08.03:690][493]LogOutputDevice: Error: [Callstack] 0x00007ff94c4bad7b UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.03.26-00.08.03:690][493]LogOutputDevice: Error: [Callstack] 0x00007ff94c499b27 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2023.03.26-00.08.03:691][493]LogOutputDevice: Error: [Callstack] 0x00007ff965f040e4 UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.26-00.08.03:691][493]LogOutputDevice: Error: [Callstack] 0x00007ff965ee9167 UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.26-00.08.03:691][493]LogOutputDevice: Error: [Callstack] 0x00007ff965e90448 UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.26-00.08.03:691][493]LogOutputDevice: Error: [Callstack] 0x00007ff965e6f527 UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.26-00.08.03:691][493]LogOutputDevice: Error: [Callstack] 0x00007ff965ef1bf6 UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.26-00.08.03:691][493]LogOutputDevice: Error: [Callstack] 0x00007ff965ef3008 UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.26-00.08.03:691][493]LogOutputDevice: Error: [Callstack] 0x00007ff965df1114 UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.26-00.08.03:691][493]LogOutputDevice: Error: [Callstack] 0x00007ff965c42112 UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.26-00.08.03:691][493]LogOutputDevice: Error: [Callstack] 0x00007ff965ca5087 UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.26-00.08.03:691][493]LogOutputDevice: Error: [Callstack] 0x00007ff965c98756 UE4Editor-Slate.dll!UnknownFunction []
+[2023.03.26-00.08.03:691][493]LogOutputDevice: Error: [Callstack] 0x00007ff9bf18bcc8 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.03.26-00.08.03:691][493]LogOutputDevice: Error: [Callstack] 0x00007ff9bf1792b7 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.03.26-00.08.03:691][493]LogOutputDevice: Error: [Callstack] 0x00007ff9bf18e465 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.03.26-00.08.03:691][493]LogOutputDevice: Error: [Callstack] 0x00007ff9bf174410 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.03.26-00.08.03:691][493]LogOutputDevice: Error: [Callstack] 0x00007ff9d49d1cec USER32.dll!UnknownFunction []
+[2023.03.26-00.08.03:691][493]LogOutputDevice: Error: [Callstack] 0x00007ff9d49d0f46 USER32.dll!UnknownFunction []
+[2023.03.26-00.08.03:691][493]LogOutputDevice: Error: [Callstack] 0x00007ff9bf18fcd4 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2023.03.26-00.08.03:691][493]LogOutputDevice: Error: [Callstack] 0x00007ff780627621 UE4Editor.exe!UnknownFunction []
+[2023.03.26-00.08.03:691][493]LogOutputDevice: Error: [Callstack] 0x00007ff780640fcc UE4Editor.exe!UnknownFunction []
+[2023.03.26-00.08.03:691][493]LogOutputDevice: Error: [Callstack] 0x00007ff7806410ba UE4Editor.exe!UnknownFunction []
+[2023.03.26-00.08.03:691][493]LogOutputDevice: Error: [Callstack] 0x00007ff7806440dd UE4Editor.exe!UnknownFunction []
+[2023.03.26-00.08.03:691][493]LogOutputDevice: Error: [Callstack] 0x00007ff780655984 UE4Editor.exe!UnknownFunction []
+[2023.03.26-00.08.03:691][493]LogOutputDevice: Error: [Callstack] 0x00007ff78065853a UE4Editor.exe!UnknownFunction []
+[2023.03.26-00.08.03:691][493]LogOutputDevice: Error: [Callstack] 0x00007ff9d60355a0 KERNEL32.DLL!UnknownFunction []
+[2023.03.26-00.08.03:691][493]LogOutputDevice: Error: [Callstack] 0x00007ff9d6ac485b ntdll.dll!UnknownFunction []
+[2023.03.26-00.08.03:691][493]LogOutputDevice: Error: 
