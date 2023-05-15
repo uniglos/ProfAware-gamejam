@@ -42,26 +42,24 @@
 			"Assets": [
 				"/OculusVR/Materials/TouchForQuestRiftSControllerMaterial",
 				"/Game/PNG/Red/texture_09_Mat",
-				"/Game/PNG/Dark/texture_09_Mat",
-				"/Game/PNG/Dark/texture_05_Mat",
-				"/Game/PNG/Green/texture_02_Mat",
-				"/Game/PNG/Orange/texture_10_Mat",
-				"/Game/PNG/Dark/texture_01_Mat",
-				"/Game/PNG/Orange/texture_02_Mat",
-				"/Game/PNG/Light/texture_06_Mat",
 				"/Game/PNG/Orange/texture_09_Mat",
+				"/Game/PNG/Green/texture_09_Mat",
+				"/Game/PNG/Dark/texture_04_Mat",
+				"/Game/PNG/Dark/texture_08_Mat",
+				"/Game/PNG/Light/texture_08_Mat",
+				"/Game/PNG/Light/texture_13_Mat",
+				"/Game/PNG/Purple/texture_03_Mat",
+				"/Game/PNG/Dark/texture_03_Mat",
 				"/Game/PNG/Red/texture_07_Mat",
 				"/Game/PNG/Purple/texture_07_Mat",
-				"/Game/PNG/Purple/texture_05_Mat",
-				"/Game/PNG/Purple/texture_03_Mat",
-				"/Game/PNG/Light/texture_13_Mat",
-				"/Game/PNG/Light/texture_08_Mat",
-				"/Game/PNG/Green/texture_09_Mat",
-				"/Game/PNG/Dark/texture_08_Mat",
 				"/Game/PNG/Dark/texture_07_Mat",
+				"/Game/PNG/Dark/texture_01_Mat",
+				"/Game/PNG/Light/texture_06_Mat",
 				"/Game/PNG/Dark/texture_06_Mat",
-				"/Game/PNG/Dark/texture_04_Mat",
-				"/Game/PNG/Dark/texture_03_Mat"
+				"/Game/PNG/Green/texture_02_Mat",
+				"/Game/PNG/Orange/texture_02_Mat",
+				"/Game/PNG/Orange/texture_10_Mat",
+				"/Game/PNG/Purple/texture_05_Mat"
 			]
 		},
 		{
@@ -173,13 +171,13 @@
 			]
 		},
 		{
-			"ShaderMapHash": "DD30E89915AE2462924A4213E7BCDD2694D8C9AA",
+			"ShaderMapHash": "90F76CFC1826DF0936E9DC5B613BE52B2239D8C3",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "172D354B2E688E8694B4B56AA1A24E7CE17FFAB6",
+			"ShaderMapHash": "EA37A847A57A28826CA7614906FBBA37453BFF6C",
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
 			]
@@ -288,40 +286,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "621ED7B43D26D39CF73625AC28DCAE086DC47BB2",
-			"Assets": [
-				"/Game/NecrosUtilityMatPack/materials/floor/masters/m_ceramic_floor_tile",
-				"/Game/NecrosUtilityMatPack/materials/floor/mi_floortile_staggered_brown"
-			]
-		},
-		{
-			"ShaderMapHash": "5701230621006AD2EF1E4A7939D615D7EEFCA294",
-			"Assets": [
-				"/Game/NecrosUtilityMatPack/materials/floor/mi_floortile_straight_yellow",
-				"/Game/NecrosUtilityMatPack/materials/floor/mi_floortile_straight_turquoise",
-				"/Game/NecrosUtilityMatPack/materials/floor/mi_floortile_straight_white"
-			]
-		},
-		{
-			"ShaderMapHash": "DAB90F89DFA1D7D224068DE15ADE3F48F5BB2872",
-			"Assets": [
-				"/Game/NecrosUtilityMatPack/materials/floor/masters/m_diamondplate_01",
-				"/Game/NecrosUtilityMatPack/materials/floor/mi_diamondplate_rusty_chrome"
-			]
-		},
-		{
-			"ShaderMapHash": "C138F93D60C0B5475F0F7B1B00EE323A6A8F053E",
-			"Assets": [
-				"/Game/NecrosUtilityMatPack/materials/floor/masters/m_diamond_pattern"
-			]
-		},
-		{
-			"ShaderMapHash": "7B20BCE2B25A2E15B7E5DFE0C2094DF133BDE246",
-			"Assets": [
-				"/AnimationSharing/AnimSharingBase"
-			]
-		},
-		{
 			"ShaderMapHash": "F54906C80055D636BC39802D22A7721B7F62D200",
 			"Assets": [
 				"/Engine/EditorMaterials/Thumbnails/SkySphereMaterial"
@@ -352,46 +316,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "267C6D2ECD0B20B29A998DCDC839F345A038B2F3",
+			"ShaderMapHash": "980C29C36D431B0C01018CFC8C8F1C847D0BA70E",
 			"Assets": [
-				"/DatasmithContent/Materials/FBXImporter/DeltaGenMasterClearCoat"
-			]
-		},
-		{
-			"ShaderMapHash": "65D461B120E3E58000927C79AFF444FDD2BCA9F5",
-			"Assets": [
-				"/Game/ProfAware/Textures+Materials/Glow"
-			]
-		},
-		{
-			"ShaderMapHash": "310A6E919BD3647B354075C82BDA581F59D12BE3",
-			"Assets": [
-				"/Game/NecrosUtilityMatPack/materials/floor/mi_diamondplate_chrome",
-				"/Game/NecrosUtilityMatPack/materials/floor/mi_diamondplate_anodized_yellow"
-			]
-		},
-		{
-			"ShaderMapHash": "532E56BCC249C39C658F47C58B2979E81DF48596",
-			"Assets": [
-				"/Game/NecrosUtilityMatPack/materials/floor/mi_diamondplate_painted_rusty_yellow"
+				"/AnimationSharing/AnimSharingBase"
 			]
 		},
 		{
 			"ShaderMapHash": "AC6C83B41E19F871CED34E5FBF97AC5982265EAA",
 			"Assets": [
 				"/DatasmithContent/Materials/FBXImporter/VRED/Glass"
-			]
-		},
-		{
-			"ShaderMapHash": "DBEA9C34E0C4BAE46599EC85BB321E734D65BCF6",
-			"Assets": [
-				"/Game/NecrosUtilityMatPack/materials/wall/masters/m_oldbrick_01"
-			]
-		},
-		{
-			"ShaderMapHash": "8C34479C735362A52FA6527C9E7BC482F1437E27",
-			"Assets": [
-				"/Game/NecrosUtilityMatPack/materials/floor/masters/m_concrete_floor_panels"
 			]
 		},
 		{
@@ -407,45 +340,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E8F7378BA00B176E99B36C1473215FD6C316C776",
-			"Assets": [
-				"/Engine/VREditor/BasicMeshes/M_Floor_01"
-			]
-		},
-		{
-			"ShaderMapHash": "DAB811F07324ED5A13E239B00393F299BE708711",
-			"Assets": [
-				"/Game/ProfAware/Textures+Materials/oie_transparent_Mat"
-			]
-		},
-		{
-			"ShaderMapHash": "A9F97A3CE727D82A8CDEA07F88825B8772060821",
-			"Assets": [
-				"/Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat"
-			]
-		},
-		{
 			"ShaderMapHash": "4492AC5DD3E3CD570B40AA7AC29AB6CE286A2B18",
 			"Assets": [
 				"/Niagara/DefaultAssets/DefaultRIbbonMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "500139A48A502F692FD635D455E6F5F1ECEAF823",
+			"ShaderMapHash": "93F228320C0BD3D3614C34DBC4C29C9D148F2EDA",
 			"Assets": [
-				"/Game/ProfAware/Textures+Materials/Controls_DecalMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "CC149C6EDE8900DEF7D66243902BAE5DB302987C",
-			"Assets": [
-				"/Game/NecrosUtilityMatPack/materials/floor/masters/m_asphalt"
-			]
-		},
-		{
-			"ShaderMapHash": "037CEC2E8BF164155A80355DE4ACEC2F03D2913A",
-			"Assets": [
-				"/Game/ProfAware/Levels/Level01"
+				"/Engine/TemplateResources/M_Template_Master"
 			]
 		},
 		{
@@ -455,9 +358,36 @@
 			]
 		},
 		{
-			"ShaderMapHash": "93F228320C0BD3D3614C34DBC4C29C9D148F2EDA",
+			"ShaderMapHash": "97E179720498FD0CF607E5378EC423D75AC89151",
 			"Assets": [
-				"/Engine/TemplateResources/M_Template_Master"
+				"/DatasmithContent/Materials/AliasMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "AF630D10EC29E174CC6981011633B94F1A86668B",
+			"Assets": [
+				"/Game/PNG/Dark/texture_09_Mat",
+				"/Game/PNG/Dark/texture_05_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "BF37FA57D71BD63E4E58B6CD0F872BA88EEE84A2",
+			"Assets": [
+				"/Game/NecrosUtilityMatPack/materials/floor/masters/m_wood_floor_worn",
+				"/Game/NecrosUtilityMatPack/materials/floor/mi_wood_floor_worn"
+			]
+		},
+		{
+			"ShaderMapHash": "C138F93D60C0B5475F0F7B1B00EE323A6A8F053E",
+			"Assets": [
+				"/Game/NecrosUtilityMatPack/materials/floor/masters/m_diamond_pattern"
+			]
+		},
+		{
+			"ShaderMapHash": "1C41DD8C7D4928C42233BAB80FE3AA6B03021F58",
+			"Assets": [
+				"/Game/PNG/Red/texture_06_Mat",
+				"/Game/PNG/Light/texture_13_Mat1"
 			]
 		},
 		{
@@ -473,25 +403,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "E529DE8B70F06A5D75C5546CDB722205F39F10B0",
-			"Assets": [
-				"/Game/NecrosUtilityMatPack/materials/floor/mi_diamondplate_painted_yellow"
-			]
-		},
-		{
-			"ShaderMapHash": "7218161ABE81ABF5BC0854D3FCF3B7204CD7CB84",
-			"Assets": [
-				"/Game/NecrosUtilityMatPack/materials/misc/masters/m_inferno",
-				"/Game/NecrosUtilityMatPack/materials/misc/mi_inferno_yellow"
-			]
-		},
-		{
-			"ShaderMapHash": "B5ACA7439A80BA891042A559D7A0FEE275F1FBCE",
-			"Assets": [
-				"/Game/NecrosUtilityMatPack/materials/misc/mi_blood_water_dark"
-			]
-		},
-		{
 			"ShaderMapHash": "59F210FB6F9BE1E5AE7CB4D6B574009FE1D5E223",
 			"Assets": [
 				"/Game/NecrosUtilityMatPack/materials/misc/masters/m_crackedmud"
@@ -501,33 +412,6 @@
 			"ShaderMapHash": "E157E809E80F73F7E4A51FBABC7B8CBAD4A49A9D",
 			"Assets": [
 				"/Game/NecrosUtilityMatPack/materials/misc/masters/m_leather"
-			]
-		},
-		{
-			"ShaderMapHash": "8D43D18D976020E8A5B3B954B3494009C7CFE9D1",
-			"Assets": [
-				"/Game/NecrosUtilityMatPack/materials/misc/masters/m_mesh_rock"
-			]
-		},
-		{
-			"ShaderMapHash": "31A21661AE63E4E98812A1CA268E4B0A84EF9C7A",
-			"Assets": [
-				"/Game/NecrosUtilityMatPack/materials/misc/mi_mesh_rock"
-			]
-		},
-		{
-			"ShaderMapHash": "43148A2AC182DFAD52969F432D6A485787E46727",
-			"Assets": [
-				"/Game/NecrosUtilityMatPack/materials/misc/masters/m_paintedrust_01",
-				"/Game/NecrosUtilityMatPack/materials/misc/mi_paintedrust_gold"
-			]
-		},
-		{
-			"ShaderMapHash": "9D15D43D04CC5A717EEA578C6BE42E07217D84CF",
-			"Assets": [
-				"/Game/NecrosUtilityMatPack/materials/misc/mi_paintedrust_red",
-				"/Game/NecrosUtilityMatPack/materials/misc/mi_paintedrust_white",
-				"/Game/NecrosUtilityMatPack/materials/misc/mi_paintedrust_yellow"
 			]
 		},
 		{
@@ -561,56 +445,39 @@
 			]
 		},
 		{
-			"ShaderMapHash": "3AF504CE0AA8683A5C7720DFC9A5173D29A345A9",
-			"Assets": [
-				"/Game/NecrosUtilityMatPack/materials/roof/mi_roundshingles_brown"
-			]
-		},
-		{
-			"ShaderMapHash": "C12202A076C4FAD8A711A7EF5F1637AF0FE91E26",
-			"Assets": [
-				"/Game/NecrosUtilityMatPack/materials/roof/mi_roundshingles_gray",
-				"/Game/NecrosUtilityMatPack/materials/roof/mi_roundshingles_red"
-			]
-		},
-		{
 			"ShaderMapHash": "CBF7E1DD85329654D27B685AC29EB589660AB3CB",
 			"Assets": [
 				"/Game/NecrosUtilityMatPack/materials/roof/masters/m_spanishtile"
 			]
 		},
 		{
-			"ShaderMapHash": "BB0F3B5AA9B444E35FB8CE82A14412B6EF1EADBB",
+			"ShaderMapHash": "724F981D4164C1DE7B4EB39A481F45ADEA67615B",
 			"Assets": [
-				"/Game/NecrosUtilityMatPack/materials/roof/mi_spanishtile_brown"
+				"/Game/NecrosUtilityMatPack/materials/wall/masters/m_concrete"
 			]
 		},
 		{
-			"ShaderMapHash": "32912CD2465283D60858020DB319E1B495BC6810",
+			"ShaderMapHash": "38745F07C7E7B03C1311D3A83D54EAAED00EA192",
 			"Assets": [
-				"/Game/NecrosUtilityMatPack/materials/roof/mi_spanishtile_gray",
-				"/Game/NecrosUtilityMatPack/materials/roof/mi_spanishtile_red"
+				"/Game/NecrosUtilityMatPack/materials/wall/masters/m_concreteblock"
 			]
 		},
 		{
-			"ShaderMapHash": "A2A64E8EF028212CE1B191FDE18CF886DBA273E0",
+			"ShaderMapHash": "8D43D18D976020E8A5B3B954B3494009C7CFE9D1",
 			"Assets": [
-				"/Game/NecrosUtilityMatPack/materials/roof/mi_spanishtile_orange"
+				"/Game/NecrosUtilityMatPack/materials/misc/masters/m_mesh_rock"
 			]
 		},
 		{
-			"ShaderMapHash": "FCF5BD52ABE21D2ECAC6D450D54C270D9F13387A",
+			"ShaderMapHash": "14820A079348B4480C25026BAFF236EA3852DB4B",
 			"Assets": [
-				"/Game/NecrosUtilityMatPack/materials/roof/masters/m_tinroof",
-				"/Game/NecrosUtilityMatPack/materials/roof/mi_tinroof_bright",
-				"/Game/NecrosUtilityMatPack/materials/roof/mi_tinroof_rusty_bright"
+				"/Game/NecrosUtilityMatPack/materials/wall/masters/m_washedconcrete"
 			]
 		},
 		{
-			"ShaderMapHash": "871A5882CD1E5C2E0266081AA24136F91A35DB65",
+			"ShaderMapHash": "FC7E58D3888DB712A65478CD74959EBABADD0198",
 			"Assets": [
-				"/Game/NecrosUtilityMatPack/materials/roof/mi_tinroof_painted_red",
-				"/Game/NecrosUtilityMatPack/materials/roof/mi_tinroof_rusty_painted_red"
+				"/Game/NecrosUtilityMatPack/materials/wall/masters/m_travertine_rectangular_staggered"
 			]
 		},
 		{
@@ -626,9 +493,139 @@
 			]
 		},
 		{
-			"ShaderMapHash": "38745F07C7E7B03C1311D3A83D54EAAED00EA192",
+			"ShaderMapHash": "CC149C6EDE8900DEF7D66243902BAE5DB302987C",
 			"Assets": [
-				"/Game/NecrosUtilityMatPack/materials/wall/masters/m_concreteblock"
+				"/Game/NecrosUtilityMatPack/materials/floor/masters/m_asphalt"
+			]
+		},
+		{
+			"ShaderMapHash": "500139A48A502F692FD635D455E6F5F1ECEAF823",
+			"Assets": [
+				"/Game/ProfAware/Textures+Materials/Controls_DecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "9CB9B181E3CE731963FD44265F8B0D470E5CF4F6",
+			"Assets": [
+				"/Engine/Tutorial/SubEditors/TutorialAssets/Character/TutorialTPP_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "DAB811F07324ED5A13E239B00393F299BE708711",
+			"Assets": [
+				"/Game/ProfAware/Textures+Materials/oie_transparent_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "E8F7378BA00B176E99B36C1473215FD6C316C776",
+			"Assets": [
+				"/Engine/VREditor/BasicMeshes/M_Floor_01"
+			]
+		},
+		{
+			"ShaderMapHash": "8C34479C735362A52FA6527C9E7BC482F1437E27",
+			"Assets": [
+				"/Game/NecrosUtilityMatPack/materials/floor/masters/m_concrete_floor_panels"
+			]
+		},
+		{
+			"ShaderMapHash": "65D461B120E3E58000927C79AFF444FDD2BCA9F5",
+			"Assets": [
+				"/Game/ProfAware/Textures+Materials/Glow"
+			]
+		},
+		{
+			"ShaderMapHash": "DBEA9C34E0C4BAE46599EC85BB321E734D65BCF6",
+			"Assets": [
+				"/Game/NecrosUtilityMatPack/materials/wall/masters/m_oldbrick_01"
+			]
+		},
+		{
+			"ShaderMapHash": "342D35D21069323910BEF7579101E51475A0EBB0",
+			"Assets": [
+				"/DatasmithContent/Materials/FBXImporter/DeltaGenMasterClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "E529DE8B70F06A5D75C5546CDB722205F39F10B0",
+			"Assets": [
+				"/Game/NecrosUtilityMatPack/materials/floor/mi_diamondplate_painted_yellow"
+			]
+		},
+		{
+			"ShaderMapHash": "621ED7B43D26D39CF73625AC28DCAE086DC47BB2",
+			"Assets": [
+				"/Game/NecrosUtilityMatPack/materials/floor/mi_floortile_staggered_brown",
+				"/Game/NecrosUtilityMatPack/materials/floor/masters/m_ceramic_floor_tile"
+			]
+		},
+		{
+			"ShaderMapHash": "B5ACA7439A80BA891042A559D7A0FEE275F1FBCE",
+			"Assets": [
+				"/Game/NecrosUtilityMatPack/materials/misc/mi_blood_water_dark"
+			]
+		},
+		{
+			"ShaderMapHash": "7218161ABE81ABF5BC0854D3FCF3B7204CD7CB84",
+			"Assets": [
+				"/Game/NecrosUtilityMatPack/materials/misc/masters/m_inferno",
+				"/Game/NecrosUtilityMatPack/materials/misc/mi_inferno_yellow"
+			]
+		},
+		{
+			"ShaderMapHash": "43148A2AC182DFAD52969F432D6A485787E46727",
+			"Assets": [
+				"/Game/NecrosUtilityMatPack/materials/misc/mi_paintedrust_gold",
+				"/Game/NecrosUtilityMatPack/materials/misc/masters/m_paintedrust_01"
+			]
+		},
+		{
+			"ShaderMapHash": "9D15D43D04CC5A717EEA578C6BE42E07217D84CF",
+			"Assets": [
+				"/Game/NecrosUtilityMatPack/materials/misc/mi_paintedrust_red"
+			]
+		},
+		{
+			"ShaderMapHash": "3AF504CE0AA8683A5C7720DFC9A5173D29A345A9",
+			"Assets": [
+				"/Game/NecrosUtilityMatPack/materials/roof/mi_roundshingles_brown"
+			]
+		},
+		{
+			"ShaderMapHash": "C12202A076C4FAD8A711A7EF5F1637AF0FE91E26",
+			"Assets": [
+				"/Game/NecrosUtilityMatPack/materials/roof/mi_roundshingles_red"
+			]
+		},
+		{
+			"ShaderMapHash": "BB0F3B5AA9B444E35FB8CE82A14412B6EF1EADBB",
+			"Assets": [
+				"/Game/NecrosUtilityMatPack/materials/roof/mi_spanishtile_brown"
+			]
+		},
+		{
+			"ShaderMapHash": "A2A64E8EF028212CE1B191FDE18CF886DBA273E0",
+			"Assets": [
+				"/Game/NecrosUtilityMatPack/materials/roof/mi_spanishtile_orange"
+			]
+		},
+		{
+			"ShaderMapHash": "32912CD2465283D60858020DB319E1B495BC6810",
+			"Assets": [
+				"/Game/NecrosUtilityMatPack/materials/roof/mi_spanishtile_red"
+			]
+		},
+		{
+			"ShaderMapHash": "FCF5BD52ABE21D2ECAC6D450D54C270D9F13387A",
+			"Assets": [
+				"/Game/NecrosUtilityMatPack/materials/roof/masters/m_tinroof",
+				"/Game/NecrosUtilityMatPack/materials/roof/mi_tinroof_rusty_bright"
+			]
+		},
+		{
+			"ShaderMapHash": "871A5882CD1E5C2E0266081AA24136F91A35DB65",
+			"Assets": [
+				"/Game/NecrosUtilityMatPack/materials/roof/mi_tinroof_rusty_painted_red"
 			]
 		},
 		{
@@ -638,41 +635,40 @@
 			]
 		},
 		{
-			"ShaderMapHash": "724F981D4164C1DE7B4EB39A481F45ADEA67615B",
+			"ShaderMapHash": "31A21661AE63E4E98812A1CA268E4B0A84EF9C7A",
 			"Assets": [
-				"/Game/NecrosUtilityMatPack/materials/wall/masters/m_concrete"
+				"/Game/NecrosUtilityMatPack/materials/misc/mi_mesh_rock"
 			]
 		},
 		{
-			"ShaderMapHash": "FC7E58D3888DB712A65478CD74959EBABADD0198",
+			"ShaderMapHash": "037CEC2E8BF164155A80355DE4ACEC2F03D2913A",
 			"Assets": [
-				"/Game/NecrosUtilityMatPack/materials/wall/masters/m_travertine_rectangular_staggered"
+				"/Game/ProfAware/Levels/Level01"
 			]
 		},
 		{
-			"ShaderMapHash": "14820A079348B4480C25026BAFF236EA3852DB4B",
+			"ShaderMapHash": "310A6E919BD3647B354075C82BDA581F59D12BE3",
 			"Assets": [
-				"/Game/NecrosUtilityMatPack/materials/wall/masters/m_washedconcrete"
+				"/Game/NecrosUtilityMatPack/materials/floor/mi_diamondplate_chrome"
 			]
 		},
 		{
-			"ShaderMapHash": "1C41DD8C7D4928C42233BAB80FE3AA6B03021F58",
+			"ShaderMapHash": "532E56BCC249C39C658F47C58B2979E81DF48596",
 			"Assets": [
-				"/Game/PNG/Red/texture_06_Mat",
-				"/Game/PNG/Light/texture_13_Mat1"
+				"/Game/NecrosUtilityMatPack/materials/floor/mi_diamondplate_painted_rusty_yellow"
 			]
 		},
 		{
-			"ShaderMapHash": "A1463A76DDB88A9DA63369CFA957C43F63142A78",
+			"ShaderMapHash": "DAB90F89DFA1D7D224068DE15ADE3F48F5BB2872",
 			"Assets": [
-				"/DatasmithContent/Materials/AliasMaster"
+				"/Game/NecrosUtilityMatPack/materials/floor/masters/m_diamondplate_01",
+				"/Game/NecrosUtilityMatPack/materials/floor/mi_diamondplate_rusty_chrome"
 			]
 		},
 		{
-			"ShaderMapHash": "BF37FA57D71BD63E4E58B6CD0F872BA88EEE84A2",
+			"ShaderMapHash": "5701230621006AD2EF1E4A7939D615D7EEFCA294",
 			"Assets": [
-				"/Game/NecrosUtilityMatPack/materials/floor/masters/m_wood_floor_worn",
-				"/Game/NecrosUtilityMatPack/materials/floor/mi_wood_floor_worn"
+				"/Game/NecrosUtilityMatPack/materials/floor/mi_floortile_straight_yellow"
 			]
 		}
 	]
