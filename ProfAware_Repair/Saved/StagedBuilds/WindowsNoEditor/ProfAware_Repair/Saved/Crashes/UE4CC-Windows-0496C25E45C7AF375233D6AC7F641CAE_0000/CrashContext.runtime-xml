@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FGenericCrashContext>
+<RuntimeProperties>
+<CrashVersion>3</CrashVersion>
+<ExecutionGuid>2C3A668746BFCEA1347EDEA5895E2944</ExecutionGuid>
+<CrashGUID>UE4CC-Windows-0496C25E45C7AF375233D6AC7F641CAE_0000</CrashGUID>
+<IsEnsure>true</IsEnsure>
+<IsAssert>false</IsAssert>
+<CrashType>Ensure</CrashType>
+<ErrorMessage>Ensure condition failed: PrecompiledData-&gt;FindDataID(this).IsValid() [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/MovieScene/Private/MovieSceneSequence.cpp] [Line: 67]
+No precompiled movie scene data is present for sequence &apos;Sequence&apos;. This should have been generated and saved during cook.
+Stack: 
+0x00007ff7bda5d398 UE4Game.exe!UnknownFunction []
+0x00007ff7bad9a9e3 UE4Game.exe!UnknownFunction []
+0x00007ff7b86454cb UE4Game.exe!UnknownFunction []
+0x00007ff7b877c112 UE4Game.exe!UnknownFunction []
+0x00007ff7bb5b48d7 UE4Game.exe!UnknownFunction []
+0x00007ff7bc11a0f1 UE4Game.exe!UnknownFunction []
+0x00007ff7bc17d0a7 UE4Game.exe!UnknownFunction []
+0x00007ff7bb5bb828 UE4Game.exe!UnknownFunction []
+0x00007ff7bb5be103 UE4Game.exe!UnknownFunction []
+0x00007ff7bbb0de3a UE4Game.exe!UnknownFunction []
+0x00007ff7bc632027 UE4Game.exe!UnknownFunction []
+0x00007ff7b8784957 UE4Game.exe!UnknownFunction []
+0x00007ff7b8787180 UE4Game.exe!UnknownFunction []
+0x00007ff7b875f4b2 UE4Game.exe!UnknownFunction []
+0x00007ff7b873229a UE4Game.exe!UnknownFunction []
+0x00007ff7b875ef94 UE4Game.exe!UnknownFunction []
+0x00007ff7b875f4b2 UE4Game.exe!UnknownFunction []
+0x00007ff7b873229a UE4Game.exe!UnknownFunction []
+0x00007ff7b875ef94 UE4Game.exe!UnknownFunction []
+0x00007ff7b875c8d4 UE4Game.exe!UnknownFunction []
+0x00007ff7b875f4b2 UE4Game.exe!UnknownFunction []
+0x00007ff7b873229a UE4Game.exe!UnknownFunction []
+0x00007ff7b875ef94 UE4Game.exe!UnknownFunction []
+0x00007ff7b875f4b2 UE4Game.exe!UnknownFunction []
+0x00007ff7b873229a UE4Game.exe!UnknownFunction []
+0x00007ff7b875ef94 UE4Game.exe!UnknownFunction []
+0x00007ff7b875f4b2 UE4Game.exe!UnknownFunction []
+0x00007ff7b875e821 UE4Game.exe!UnknownFunction []
+0x00007ff7b84cfb69 UE4Game.exe!UnknownFunction []
+0x00007ff7b875e21c UE4Game.exe!UnknownFunction []
+0x00007ff7bb5d2b0e UE4Game.exe!UnknownFunction []
+0x00007ff7bbc995b7 UE4Game.exe!UnknownFunction []
+0x00007ff7bbc7ba3f UE4Game.exe!UnknownFunction []
+0x00007ff7bbc964b0 UE4Game.exe!UnknownFunction []
+0x00007ff7bbae2f2e UE4Game.exe!UnknownFunction []
+0x00007ff7b6dbebf4 UE4Game.exe!UnknownFunction []
+0x00007ff7b6dd546f UE4Game.exe!UnknownFunction []
+0x00007ff7b6dd553a UE4Game.exe!UnknownFunction []
+0x00007ff7b6dd793c UE4Game.exe!UnknownFunction []
+0x00007ff7b6de9184 UE4Game.exe!UnknownFunction []
+0x00007ff7bd60f152 UE4Game.exe!UnknownFunction []
+0x00007ff8e4bf7614 KERNEL32.DLL!UnknownFunction []
+0x00007ff8e5aa26a1 ntdll.dll!UnknownFunction []
+</ErrorMessage>
+<CrashReporterMessage></CrashReporterMessage>
+<ProcessId>13448</ProcessId>
+<SecondsSinceStart>11</SecondsSinceStart>
+<IsInternalBuild>false</IsInternalBuild>
+<IsPerforceBuild>false</IsPerforceBuild>
+<IsSourceDistribution>false</IsSourceDistribution>
+<GameName>UE4-ProfAware_Repair</GameName>
+<ExecutableName>UE4Game</ExecutableName>
+<BuildConfiguration>Development</BuildConfiguration>
+<GameSessionID></GameSessionID>
+<Symbols>**UE4*Release-4.27-CL-18319896-Win64-Development</Symbols>
+<PlatformName>WindowsNoEditor</PlatformName>
+<PlatformNameIni>Windows</PlatformNameIni>
+<EngineMode>Game</EngineMode>
+<EngineModeEx>Unset</EngineModeEx>
+<DeploymentName></DeploymentName>
+<EngineVersion>4.27.2-18319896+++UE4+Release-4.27</EngineVersion>
+<CommandLine> ..\..\..\ProfAware_Repair\ProfAware_Repair.uproject</CommandLine>
+<LanguageLCID>0</LanguageLCID>
+<AppDefaultLocale>en-GB</AppDefaultLocale>
+<BuildVersion>++UE4+Release-4.27-CL-18319896</BuildVersion>
+<IsUE4Release>false</IsUE4Release>
+<IsRequestingExit>false</IsRequestingExit>
+<UserName></UserName>
+<BaseDir>F:/github/Experi/ProfAware-gamejam/ProfAware_Repair/Saved/StagedBuilds/WindowsNoEditor/Engine/Binaries/Win64/</BaseDir>
+<RootDir>F:/github/Experi/ProfAware-gamejam/ProfAware_Repair/Saved/StagedBuilds/WindowsNoEditor/</RootDir>
+<MachineId>904E787F436B69BFC1738FA38D41259A</MachineId>
+<LoginId>904e787f436b69bfc1738fa38d41259a</LoginId>
+<EpicAccountId>b556beefcb804909acc52dc2815dfecb</EpicAccountId>
+<SourceContext></SourceContext>
+<UserDescription></UserDescription>
+<UserActivityHint></UserActivityHint>
+<CrashDumpMode>0</CrashDumpMode>
+<GameStateName></GameStateName>
+<Misc.NumberOfCores>4</Misc.NumberOfCores>
+<Misc.NumberOfCoresIncludingHyperthreads>4</Misc.NumberOfCoresIncludingHyperthreads>
+<Misc.Is64bitOperatingSystem>1</Misc.Is64bitOperatingSystem>
+<Misc.CPUVendor>GenuineIntel</Misc.CPUVendor>
+<Misc.CPUBrand>       Intel(R) Core(TM) i5-3570K CPU @ 3.40GHz</Misc.CPUBrand>
+<Misc.PrimaryGPUBrand>NVIDIA GeForce GTX 1660 Ti</Misc.PrimaryGPUBrand>
+<Misc.OSVersionMajor>Windows 10 (Release 2009)</Misc.OSVersionMajor>
+<Misc.OSVersionMinor></Misc.OSVersionMinor>
+<MemoryStats.TotalPhysical>17137438720</MemoryStats.TotalPhysical>
+<MemoryStats.TotalVirtual>140737488224256</MemoryStats.TotalVirtual>
+<MemoryStats.PageSize>4096</MemoryStats.PageSize>
+<MemoryStats.TotalPhysicalGB>16</MemoryStats.TotalPhysicalGB>
+<MemoryStats.AvailablePhysical>11044745216</MemoryStats.AvailablePhysical>
+<MemoryStats.AvailableVirtual>24610222080</MemoryStats.AvailableVirtual>
+<MemoryStats.UsedPhysical>358371328</MemoryStats.UsedPhysical>
+<MemoryStats.PeakUsedPhysical>470736896</MemoryStats.PeakUsedPhysical>
+<MemoryStats.UsedVirtual>920281088</MemoryStats.UsedVirtual>
+<MemoryStats.PeakUsedVirtual>980426752</MemoryStats.PeakUsedVirtual>
+<MemoryStats.bIsOOM>0</MemoryStats.bIsOOM>
+<MemoryStats.OOMAllocationSize>0</MemoryStats.OOMAllocationSize>
+<MemoryStats.OOMAllocationAlignment>0</MemoryStats.OOMAllocationAlignment>
+<NumMinidumpFramesToIgnore>0</NumMinidumpFramesToIgnore>
+<CallStack></CallStack>
+<PCallStack>
+UE4Game   0x00007ff7b6420000 + 763d398         
+UE4Game   0x00007ff7b6420000 + 497a9e3         
+UE4Game   0x00007ff7b6420000 + 22254cb         
+UE4Game   0x00007ff7b6420000 + 235c112         
+UE4Game   0x00007ff7b6420000 + 51948d7         
+UE4Game   0x00007ff7b6420000 + 5cfa0f1         
+UE4Game   0x00007ff7b6420000 + 5d5d0a7         
+UE4Game   0x00007ff7b6420000 + 519b828         
+UE4Game   0x00007ff7b6420000 + 519e103         
+UE4Game   0x00007ff7b6420000 + 56ede3a         
+UE4Game   0x00007ff7b6420000 + 6212027         
+UE4Game   0x00007ff7b6420000 + 2364957         
+UE4Game   0x00007ff7b6420000 + 2367180         
+UE4Game   0x00007ff7b6420000 + 233f4b2         
+UE4Game   0x00007ff7b6420000 + 231229a         
+UE4Game   0x00007ff7b6420000 + 233ef94         
+UE4Game   0x00007ff7b6420000 + 233f4b2         
+UE4Game   0x00007ff7b6420000 + 231229a         
+UE4Game   0x00007ff7b6420000 + 233ef94         
+UE4Game   0x00007ff7b6420000 + 233c8d4         
+UE4Game   0x00007ff7b6420000 + 233f4b2         
+UE4Game   0x00007ff7b6420000 + 231229a         
+UE4Game   0x00007ff7b6420000 + 233ef94         
+UE4Game   0x00007ff7b6420000 + 233f4b2         
+UE4Game   0x00007ff7b6420000 + 231229a         
+UE4Game   0x00007ff7b6420000 + 233ef94         
+UE4Game   0x00007ff7b6420000 + 233f4b2         
+UE4Game   0x00007ff7b6420000 + 233e821         
+UE4Game   0x00007ff7b6420000 + 20afb69         
+UE4Game   0x00007ff7b6420000 + 233e21c         
+UE4Game   0x00007ff7b6420000 + 51b2b0e         
+UE4Game   0x00007ff7b6420000 + 58795b7         
+UE4Game   0x00007ff7b6420000 + 585ba3f         
+UE4Game   0x00007ff7b6420000 + 58764b0         
+UE4Game   0x00007ff7b6420000 + 56c2f2e         
+UE4Game   0x00007ff7b6420000 + 99ebf4          
+UE4Game   0x00007ff7b6420000 + 9b546f          
+UE4Game   0x00007ff7b6420000 + 9b553a          
+UE4Game   0x00007ff7b6420000 + 9b793c          
+UE4Game   0x00007ff7b6420000 + 9c9184          
+UE4Game   0x00007ff7b6420000 + 71ef152         
+KERNEL32  0x00007ff8e4be0000 + 17614           
+ntdll     0x00007ff8e5a50000 + 526a1           
+</PCallStack>
+<PCallStackHash>D5C5AC9BD8C402E46E458711E92AE811C149C5CF</PCallStackHash>
+</RuntimeProperties>
+<PlatformProperties>
+<PlatformIsRunningWindows>1</PlatformIsRunningWindows>
+<IsRunningOnBattery>false</IsRunningOnBattery>
+<PlatformCallbackResult>0</PlatformCallbackResult>
+</PlatformProperties>
+<EngineData>
+<RHI.IsGPUOverclocked>false</RHI.IsGPUOverclocked>
+<RHI.RHIName>D3D11</RHI.RHIName>
+<RHI.AdapterName>NVIDIA GeForce GTX 1660 Ti</RHI.AdapterName>
+<RHI.UserDriverVersion>531.41</RHI.UserDriverVersion>
+<RHI.InternalDriverVersion>31.0.15.3141</RHI.InternalDriverVersion>
+<RHI.DriverDate>3-16-2023</RHI.DriverDate>
+<RHI.FeatureLevel>SM5</RHI.FeatureLevel>
+<DeviceProfile.Name>WindowsNoEditor</DeviceProfile.Name>
+<Platform.AppHasFocus>true</Platform.AppHasFocus>
+</EngineData>
+<GameData>
+</GameData>
+</FGenericCrashContext>
